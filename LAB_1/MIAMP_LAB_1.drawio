@@ -1,0 +1,942 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="4">
+  <diagram name="Описание процесса" id="DKnrJ2_d3M1DMu6XknEb">
+    <mxGraphModel dx="1223" dy="1876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NONLArPnqshVOUd1cCBX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NONLArPnqshVOUd1cCBX-5" target="NONLArPnqshVOUd1cCBX-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750.08" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NONLArPnqshVOUd1cCBX-20" value="Возврат средств, обмен&lt;div&gt;товара&amp;nbsp;&lt;div&gt;или отказ&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NONLArPnqshVOUd1cCBX-19" connectable="0" vertex="1">
+          <mxGeometry x="-0.3195" y="-1" relative="1" as="geometry">
+            <mxPoint x="22" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NONLArPnqshVOUd1cCBX-5" value="Предъявление претензии по поводу продажи товара&amp;nbsp;ненадлежащего качества" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="300" y="150" width="440" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NONLArPnqshVOUd1cCBX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.314;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="302.20000000000005" y="157.67999999999984" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="180" />
+              <mxPoint x="1000" y="-100" />
+              <mxPoint x="150" y="-100" />
+              <mxPoint x="150" y="158" />
+            </Array>
+            <mxPoint x="940.0799999999999" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NONLArPnqshVOUd1cCBX-18" value="Заявление о возврате/обмене товара&lt;div&gt;Реквизиты для возврата денежных средств&lt;br&gt;&lt;div&gt;Гарантийный талон&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NONLArPnqshVOUd1cCBX-17" connectable="0" vertex="1">
+          <mxGeometry x="-0.0005" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NONLArPnqshVOUd1cCBX-6" value="Клиент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="910.08" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NONLArPnqshVOUd1cCBX-7" value="Отдел по работе с претензиями" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="320" y="430" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NONLArPnqshVOUd1cCBX-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.2;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.116;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="431.98" as="sourcePoint" />
+            <mxPoint x="371.40000000000003" y="270.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NONLArPnqshVOUd1cCBX-9" value="Торговая&lt;div&gt;точка&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NONLArPnqshVOUd1cCBX-8" connectable="0" vertex="1">
+          <mxGeometry x="0.087" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NONLArPnqshVOUd1cCBX-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.425;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="430" as="sourcePoint" />
+            <mxPoint x="414" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="391.02" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NONLArPnqshVOUd1cCBX-11" value="Персонал" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NONLArPnqshVOUd1cCBX-10" connectable="0" vertex="1">
+          <mxGeometry x="0.087" y="4" relative="1" as="geometry">
+            <mxPoint x="4" y="-33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NONLArPnqshVOUd1cCBX-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="NONLArPnqshVOUd1cCBX-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="360" as="sourcePoint" />
+            <mxPoint x="469" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NONLArPnqshVOUd1cCBX-15" value="Система&amp;nbsp;&lt;div&gt;учета&lt;div&gt;претензий&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NONLArPnqshVOUd1cCBX-14" connectable="0" vertex="1">
+          <mxGeometry x="0.087" y="4" relative="1" as="geometry">
+            <mxPoint x="4" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NONLArPnqshVOUd1cCBX-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=6;endSize=6;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="NONLArPnqshVOUd1cCBX-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="174.77" y="520" as="sourcePoint" />
+            <mxPoint x="330" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="370" />
+              <mxPoint x="330" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NONLArPnqshVOUd1cCBX-26" value="Эксперт" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NONLArPnqshVOUd1cCBX-25" connectable="0" vertex="1">
+          <mxGeometry x="-0.5709" y="-1" relative="1" as="geometry">
+            <mxPoint x="49" y="-48" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NONLArPnqshVOUd1cCBX-24" value="Экспертная организация" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="170" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N8Qvu3wGn-RADN0IHX3S-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="NONLArPnqshVOUd1cCBX-6" target="NONLArPnqshVOUd1cCBX-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560.0000000000001" y="149.63999999999987" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="925" y="-30" />
+              <mxPoint x="210" y="-30" />
+              <mxPoint x="210" y="170" />
+            </Array>
+            <mxPoint x="910.11" y="191" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N8Qvu3wGn-RADN0IHX3S-2" value="&lt;div&gt;&lt;div&gt;Объект предъявления&amp;nbsp;&lt;/div&gt;&lt;div&gt;претензии (товар)&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N8Qvu3wGn-RADN0IHX3S-1" connectable="0" vertex="1">
+          <mxGeometry x="-0.0005" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YF5ktjy00og4uPkC4rnz-1" value="Внутренние&amp;nbsp;&lt;div&gt;регламенты&lt;div&gt;о возврате&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="46" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YF5ktjy00og4uPkC4rnz-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YF5ktjy00og4uPkC4rnz-1" target="NONLArPnqshVOUd1cCBX-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="270" as="sourcePoint" />
+            <mxPoint x="546" y="149" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LmTktH2AxNpTJ4BUZWHU-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Закон о защите прав потребителей&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="16" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LmTktH2AxNpTJ4BUZWHU-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LmTktH2AxNpTJ4BUZWHU-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="250" as="sourcePoint" />
+            <mxPoint x="330" y="149" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ExnMIxBQM80SbxWntAhO-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Бухгалтерские нормы&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="444" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ExnMIxBQM80SbxWntAhO-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.357;entryY=0.009;entryDx=0;entryDy=0;exitX=0.113;exitY=1.036;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="ExnMIxBQM80SbxWntAhO-1" target="NONLArPnqshVOUd1cCBX-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="140" as="sourcePoint" />
+            <mxPoint x="500" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C9oxIStfXMpWO1L21mOQ-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Методики экспертизы&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="381" y="-80" width="63" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C9oxIStfXMpWO1L21mOQ-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.442;exitY=0.969;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C9oxIStfXMpWO1L21mOQ-1" target="NONLArPnqshVOUd1cCBX-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" as="sourcePoint" />
+            <mxPoint x="410" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObmyRBYuiBQoqiXr2I_i-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Гарантийные обязательства&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="658" y="48" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ObmyRBYuiBQoqiXr2I_i-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.909;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ObmyRBYuiBQoqiXr2I_i-1" target="NONLArPnqshVOUd1cCBX-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="140" as="sourcePoint" />
+            <mxPoint x="840" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="qv0OzciJnNF3MsMryCV5" name="Декомпозиция">
+    <mxGraphModel dx="1529" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tPCq4rcapnWNepfdH9bC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tPCq4rcapnWNepfdH9bC-1" target="tPCq4rcapnWNepfdH9bC-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tPCq4rcapnWNepfdH9bC-1" target="tPCq4rcapnWNepfdH9bC-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-2" value="Подача претензии" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="120" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-3" value="Рассмотрение претензии" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="tPCq4rcapnWNepfdH9bC-4" target="tPCq4rcapnWNepfdH9bC-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="150" />
+              <mxPoint x="420" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="tPCq4rcapnWNepfdH9bC-4" target="tPCq4rcapnWNepfdH9bC-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="150" />
+              <mxPoint x="420" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="tPCq4rcapnWNepfdH9bC-4" target="tPCq4rcapnWNepfdH9bC-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="150" />
+              <mxPoint x="420" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-4" value="Экспертиза товара" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-5" value="Принятие окончательного решения" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="600" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-18" value="Проведение экспертизы" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-19" value="Вынесение заключения" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-20" value="Информирование покупателя" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="440" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" target="tPCq4rcapnWNepfdH9bC-63" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="260" y="150" />
+              <mxPoint x="260" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" target="tPCq4rcapnWNepfdH9bC-64" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="260" y="150" />
+              <mxPoint x="260" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" target="tPCq4rcapnWNepfdH9bC-65" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="260" y="150" />
+              <mxPoint x="260" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-63" value="Анализ ситуации" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-64" value="Принятие предварительного решения" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-65" value="Назначение экспертизы" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" target="tPCq4rcapnWNepfdH9bC-75" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="100" y="150" />
+              <mxPoint x="100" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" target="tPCq4rcapnWNepfdH9bC-76" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="100" y="150" />
+              <mxPoint x="100" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-75" value="Приём заявления от покупателя" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-76" value="Регистрация претензии" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="120" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="9-_JK35tYlEqaogUVGhx-1" edge="1" source="tPCq4rcapnWNepfdH9bC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="200" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="780" y="150" />
+            </Array>
+            <mxPoint x="690" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wWCJ6Paw6_EXGnOHJgdw-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="tPCq4rcapnWNepfdH9bC-1" target="tPCq4rcapnWNepfdH9bC-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="50" as="sourcePoint" />
+            <mxPoint x="1100" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="80" />
+              <mxPoint x="660" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPCq4rcapnWNepfdH9bC-1" value="Предъявление претензии по поводу продажи товара&lt;br/&gt;ненадлежащего качества" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="560" y="30" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tf-0PRcRqaW7oTvop4Zv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tPCq4rcapnWNepfdH9bC-1" target="tPCq4rcapnWNepfdH9bC-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="50" />
+            </Array>
+            <mxPoint x="570" y="60" as="sourcePoint" />
+            <mxPoint x="510" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-1" value="Исполнение решения (Возврат средств/замена товара)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-2" value="Исполнение решения (Отказ в возврате)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="870" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-3" value="Подготовка к возврату / обмену" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-4" value="Финансовые операции по возврату" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-5" value="Возврат средств или замена товара" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="310" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="700" y="310" />
+              <mxPoint x="700" y="390" />
+            </Array>
+            <mxPoint x="720" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="390" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="700" y="390" />
+              <mxPoint x="700" y="470" />
+            </Array>
+            <mxPoint x="720" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="470" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="700" y="470" />
+              <mxPoint x="700" y="550" />
+            </Array>
+            <mxPoint x="720" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-9" value="Информирование покупателя о принятом решении" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="870" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-10" value="Формирование официального письма покупателю" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="870" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-11" value="Передача отказа покупателю с объяснением причин." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="870" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-12" value="Информирование покупателя о принятом решении" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="550" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="700" y="550" />
+              <mxPoint x="700" y="630" />
+            </Array>
+            <mxPoint x="720" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-14" value="Оспавривание результата экспертизы" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-15" value="Приём возражений покупателя&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%20(%D0%9F%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%8D%D0%BA%D0%BC%D0%BF%D0%B5%D1%80%D1%82%D0%B8%D0%B7%D0%B0)%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23d5e8d4%3BstrokeColor%3D%2382b366%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221040%22%20y%3D%22120%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-16" value="Оценка обоснованности претензий покупателя" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-17" value="Вынесение финального решения" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="300" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="850" y="300" />
+              <mxPoint x="850" y="380" />
+            </Array>
+            <mxPoint x="870" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="380" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="850" y="380" />
+              <mxPoint x="850" y="460" />
+            </Array>
+            <mxPoint x="870" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="460" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="850" y="460" />
+              <mxPoint x="850" y="540" />
+            </Array>
+            <mxPoint x="870" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="310" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="310" />
+              <mxPoint x="1010" y="390" />
+            </Array>
+            <mxPoint x="1030" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="390" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="390" />
+              <mxPoint x="1010" y="470" />
+            </Array>
+            <mxPoint x="1030" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="470" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="470" />
+              <mxPoint x="1010" y="550" />
+            </Array>
+            <mxPoint x="1030" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="930" y="150" />
+            </Array>
+            <mxPoint x="930" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-_JK35tYlEqaogUVGhx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1090" y="150" />
+            </Array>
+            <mxPoint x="1090" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="imVBUzfYW4tmL6kfh8Tu" name="Структурные элементы">
+    <mxGraphModel dx="1529" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-1" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=11;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="30" y="30" width="768" height="528" as="geometry" />
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=11;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-1" vertex="1">
+          <mxGeometry width="768" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-3" value="Функция" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=default;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=15;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-2" vertex="1">
+          <mxGeometry width="126" height="60" as="geometry">
+            <mxRectangle width="126" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-4" value="Вход" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=default;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=15;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-2" vertex="1">
+          <mxGeometry x="126" width="129" height="60" as="geometry">
+            <mxRectangle width="129" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-5" value="Выход" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=default;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=15;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-2" vertex="1">
+          <mxGeometry x="255" width="129" height="60" as="geometry">
+            <mxRectangle width="129" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-34" value="Исполнитель" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=default;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=15;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-2" vertex="1">
+          <mxGeometry x="384" width="128" height="60" as="geometry">
+            <mxRectangle width="128" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-40" value="Оборудование" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=default;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=15;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-2" vertex="1">
+          <mxGeometry x="512" width="128" height="60" as="geometry">
+            <mxRectangle width="128" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-46" value="Регламент" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=default;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=15;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-2" vertex="1">
+          <mxGeometry x="640" width="128" height="60" as="geometry">
+            <mxRectangle width="128" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=11;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-1" vertex="1">
+          <mxGeometry y="60" width="768" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-7" value="&lt;span&gt;1.&amp;nbsp;&lt;/span&gt;Предъявление претензии по товару ненадлежащего качества" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=15;whiteSpace=wrap;fontStyle=1;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-6" vertex="1">
+          <mxGeometry width="126" height="119" as="geometry">
+            <mxRectangle width="126" height="119" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-8" value="Заявление, чек, гарантийный талон, документ покупателя" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=16;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-6" vertex="1">
+          <mxGeometry x="126" width="129" height="119" as="geometry">
+            <mxRectangle width="129" height="119" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-9" value="Регистрация претензии" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=16;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-6" vertex="1">
+          <mxGeometry x="255" width="129" height="119" as="geometry">
+            <mxRectangle width="129" height="119" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-35" value="Менеджер по работе с клиентами" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=16;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-6" vertex="1">
+          <mxGeometry x="384" width="128" height="119" as="geometry">
+            <mxRectangle width="128" height="119" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-41" value="Компьютер, база данных претензий" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=16;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-6" vertex="1">
+          <mxGeometry x="512" width="128" height="119" as="geometry">
+            <mxRectangle width="128" height="119" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-47" value="Закон о защите прав потребителей" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=16;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-6" vertex="1">
+          <mxGeometry x="640" width="128" height="119" as="geometry">
+            <mxRectangle width="128" height="119" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=11;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-1" vertex="1">
+          <mxGeometry y="179" width="768" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-11" value="&lt;span&gt;2.&amp;nbsp;&lt;/span&gt;Подача претензии" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=15;whiteSpace=wrap;align=center;fontStyle=1;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-10" vertex="1">
+          <mxGeometry width="126" height="113" as="geometry">
+            <mxRectangle width="126" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-12" value="Заявление, документы на товар" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-10" vertex="1">
+          <mxGeometry x="126" width="129" height="113" as="geometry">
+            <mxRectangle width="129" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-13" value="Зарегистрированное заявление" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-10" vertex="1">
+          <mxGeometry x="255" width="129" height="113" as="geometry">
+            <mxRectangle width="129" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-36" value="Продавец, менеджер" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-10" vertex="1">
+          <mxGeometry x="384" width="128" height="113" as="geometry">
+            <mxRectangle width="128" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-42" value="Бумажные бланки, база данных" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-10" vertex="1">
+          <mxGeometry x="512" width="128" height="113" as="geometry">
+            <mxRectangle width="128" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-48" value="Форма заявления, гарантийные обязательства" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-10" vertex="1">
+          <mxGeometry x="640" width="128" height="113" as="geometry">
+            <mxRectangle width="128" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=11;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-1" vertex="1">
+          <mxGeometry y="292" width="768" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-15" value="&lt;span&gt;3.&amp;nbsp;&lt;/span&gt;Рассмотрение претензии" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=1;align=center;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=15;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-14" vertex="1">
+          <mxGeometry width="126" height="123" as="geometry">
+            <mxRectangle width="126" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-16" value="Претензия, документы покупателя, гарантийные условия" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-14" vertex="1">
+          <mxGeometry x="126" width="129" height="123" as="geometry">
+            <mxRectangle width="129" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-17" value="Решение о возврате, отказе или экспертизе" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-14" vertex="1">
+          <mxGeometry x="255" width="129" height="123" as="geometry">
+            <mxRectangle width="129" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-37" value="Менеджер, юрист" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-14" vertex="1">
+          <mxGeometry x="384" width="128" height="123" as="geometry">
+            <mxRectangle width="128" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-43" value="Документы, система учета претензий" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-14" vertex="1">
+          <mxGeometry x="512" width="128" height="123" as="geometry">
+            <mxRectangle width="128" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-49" value="&lt;span&gt;Внутренний регламент принятия решений, Закон о защите прав потребителей&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-14" vertex="1">
+          <mxGeometry x="640" width="128" height="123" as="geometry">
+            <mxRectangle width="128" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-18" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=11;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-1" vertex="1">
+          <mxGeometry y="415" width="768" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-19" value="&lt;span&gt;4.&amp;nbsp;&lt;/span&gt;Экспертиза товара" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=15;whiteSpace=wrap;align=center;fontStyle=1;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-18" vertex="1">
+          <mxGeometry width="126" height="113" as="geometry">
+            <mxRectangle width="126" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-20" value="Товар, документы, гарантийные условия" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-18" vertex="1">
+          <mxGeometry x="126" width="129" height="113" as="geometry">
+            <mxRectangle width="129" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-21" value="&lt;font face=&quot;Google Sans Text, Helvetica Neue, sans-serif&quot;&gt;Заключение экспертизы&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-18" vertex="1">
+          <mxGeometry x="255" width="129" height="113" as="geometry">
+            <mxRectangle width="129" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-38" value="Эксперт, продавец" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-18" vertex="1">
+          <mxGeometry x="384" width="128" height="113" as="geometry">
+            <mxRectangle width="128" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-44" value="Методики экспертизы, внутренние регламенты" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-18" vertex="1">
+          <mxGeometry x="512" width="128" height="113" as="geometry">
+            <mxRectangle width="128" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JgcUhMtrPRyidr7s6ls-50" value="&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;ng-star-inserted&quot;&gt;Методики экспертизы, внутренние регламенты&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="0JgcUhMtrPRyidr7s6ls-18" vertex="1">
+          <mxGeometry x="640" width="128" height="113" as="geometry">
+            <mxRectangle width="128" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-1" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=11;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="30" y="30" width="768" height="754" as="geometry" />
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=11;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-1" vertex="1">
+          <mxGeometry width="768" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-3" value="Функция" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=default;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=15;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-2" vertex="1">
+          <mxGeometry width="126" height="60" as="geometry">
+            <mxRectangle width="126" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-4" value="Вход" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=default;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=15;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-2" vertex="1">
+          <mxGeometry x="126" width="129" height="60" as="geometry">
+            <mxRectangle width="129" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-5" value="Выход" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=default;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=15;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-2" vertex="1">
+          <mxGeometry x="255" width="129" height="60" as="geometry">
+            <mxRectangle width="129" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-6" value="Исполнитель" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=default;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=15;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-2" vertex="1">
+          <mxGeometry x="384" width="128" height="60" as="geometry">
+            <mxRectangle width="128" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-7" value="Оборудование" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=default;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=15;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-2" vertex="1">
+          <mxGeometry x="512" width="128" height="60" as="geometry">
+            <mxRectangle width="128" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-8" value="Регламент" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=default;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=15;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-2" vertex="1">
+          <mxGeometry x="640" width="128" height="60" as="geometry">
+            <mxRectangle width="128" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=11;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-1" vertex="1">
+          <mxGeometry y="60" width="768" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-10" value="&lt;span&gt;1.1&amp;nbsp;&lt;/span&gt;Предъявление претензии по товару ненадлежащего качества" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=15;whiteSpace=wrap;fontStyle=1;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-9" vertex="1">
+          <mxGeometry width="126" height="119" as="geometry">
+            <mxRectangle width="126" height="119" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-11" value="Заявление, чек, гарантийный талон, документ покупателя, товар" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=16;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-9" vertex="1">
+          <mxGeometry x="126" width="129" height="119" as="geometry">
+            <mxRectangle width="129" height="119" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Зарегистрированная претензия&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=16;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-9" vertex="1">
+          <mxGeometry x="255" width="129" height="119" as="geometry">
+            <mxRectangle width="129" height="119" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-13" value="Менеджер по работе с клиентами" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=16;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-9" vertex="1">
+          <mxGeometry x="384" width="128" height="119" as="geometry">
+            <mxRectangle width="128" height="119" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-14" value="Компьютер, база данных претензий" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=16;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-9" vertex="1">
+          <mxGeometry x="512" width="128" height="119" as="geometry">
+            <mxRectangle width="128" height="119" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-15" value="Закон о защите прав потребителей" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=16;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-9" vertex="1">
+          <mxGeometry x="640" width="128" height="119" as="geometry">
+            <mxRectangle width="128" height="119" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=11;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-1" vertex="1">
+          <mxGeometry y="179" width="768" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-17" value="&lt;span&gt;1.2.&amp;nbsp;&lt;/span&gt;Подача претензии" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=15;whiteSpace=wrap;align=center;fontStyle=1;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-16" vertex="1">
+          <mxGeometry width="126" height="113" as="geometry">
+            <mxRectangle width="126" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-18" value="Заявление, документы на товар, зарегистрированная претензия" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-16" vertex="1">
+          <mxGeometry x="126" width="129" height="113" as="geometry">
+            <mxRectangle width="129" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-19" value="Зарегистрированное заявление" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-16" vertex="1">
+          <mxGeometry x="255" width="129" height="113" as="geometry">
+            <mxRectangle width="129" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-20" value="Продавец, менеджер" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-16" vertex="1">
+          <mxGeometry x="384" width="128" height="113" as="geometry">
+            <mxRectangle width="128" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-21" value="Бумажные бланки, база данных" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-16" vertex="1">
+          <mxGeometry x="512" width="128" height="113" as="geometry">
+            <mxRectangle width="128" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-22" value="Форма заявления, гарантийные обязательства" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-16" vertex="1">
+          <mxGeometry x="640" width="128" height="113" as="geometry">
+            <mxRectangle width="128" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=11;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-1" vertex="1">
+          <mxGeometry y="292" width="768" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-24" value="&lt;span&gt;2.&amp;nbsp;&lt;/span&gt;Рассмотрение претензии" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=1;align=center;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=15;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-23" vertex="1">
+          <mxGeometry width="126" height="123" as="geometry">
+            <mxRectangle width="126" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-25" value="Зарегистрированное заявление, документы покупателя, гарантийные условия" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-23" vertex="1">
+          <mxGeometry x="126" width="129" height="123" as="geometry">
+            <mxRectangle width="129" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-26" value="Удовлетворительное решение о возврате/Решение проведения экспертизы" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-23" vertex="1">
+          <mxGeometry x="255" width="129" height="123" as="geometry">
+            <mxRectangle width="129" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-27" value="Менеджер, юрист" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-23" vertex="1">
+          <mxGeometry x="384" width="128" height="123" as="geometry">
+            <mxRectangle width="128" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-28" value="Документы, система учета претензий" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-23" vertex="1">
+          <mxGeometry x="512" width="128" height="123" as="geometry">
+            <mxRectangle width="128" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-29" value="&lt;span&gt;Внутренний регламент принятия решений о возврате, Закон о защите прав потребителей&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-23" vertex="1">
+          <mxGeometry x="640" width="128" height="123" as="geometry">
+            <mxRectangle width="128" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-30" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=11;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-1" vertex="1">
+          <mxGeometry y="415" width="768" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-31" value="&lt;span&gt;3.&amp;nbsp;&lt;/span&gt;Экспертиза товара" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=15;whiteSpace=wrap;align=center;fontStyle=1;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-30" vertex="1">
+          <mxGeometry width="126" height="113" as="geometry">
+            <mxRectangle width="126" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-32" value="Товар, решение проведения экспертизы" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-30" vertex="1">
+          <mxGeometry x="126" width="129" height="113" as="geometry">
+            <mxRectangle width="129" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-33" value="&lt;font face=&quot;Google Sans Text, Helvetica Neue, sans-serif&quot;&gt;Заключение экспертизы&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-30" vertex="1">
+          <mxGeometry x="255" width="129" height="113" as="geometry">
+            <mxRectangle width="129" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-34" value="Эксперт, продавец" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-30" vertex="1">
+          <mxGeometry x="384" width="128" height="113" as="geometry">
+            <mxRectangle width="128" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-35" value="Методики экспертизы, внутренние регламенты" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-30" vertex="1">
+          <mxGeometry x="512" width="128" height="113" as="geometry">
+            <mxRectangle width="128" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-36" value="&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;ng-star-inserted&quot;&gt;Методики экспертизы, внутренние регламенты&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-30" vertex="1">
+          <mxGeometry x="640" width="128" height="113" as="geometry">
+            <mxRectangle width="128" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-106" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=11;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-1" vertex="1">
+          <mxGeometry y="528" width="768" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-107" value="4.&amp;nbsp;Принятие окончательного решения" style="connectable=0;recursiveResize=0;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=15;whiteSpace=wrap;align=center;fontStyle=1;spacingRight=0;spacingLeft=6;strokeColor=light-dark(#c5d88c, #ededed);" parent="CCX97ZM5BnOViX52MLEG-106" vertex="1">
+          <mxGeometry width="126" height="113" as="geometry">
+            <mxRectangle width="126" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-108" value="Заключение экспертизы,&lt;div&gt;Удовлетворительное решение о возврате,&amp;nbsp;претензия.&lt;/div&gt;" style="connectable=0;recursiveResize=0;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;strokeColor=light-dark(#c5d88c, #ededed);" parent="CCX97ZM5BnOViX52MLEG-106" vertex="1">
+          <mxGeometry x="126" width="129" height="113" as="geometry">
+            <mxRectangle width="129" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-109" value="Финальное решение по претензии" style="connectable=0;recursiveResize=0;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;strokeColor=light-dark(#c5d88c, #ededed);" parent="CCX97ZM5BnOViX52MLEG-106" vertex="1">
+          <mxGeometry x="255" width="129" height="113" as="geometry">
+            <mxRectangle width="129" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-110" value="Руководство, юрист" style="connectable=0;recursiveResize=0;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;strokeColor=light-dark(#c5d88c, #ededed);" parent="CCX97ZM5BnOViX52MLEG-106" vertex="1">
+          <mxGeometry x="384" width="128" height="113" as="geometry">
+            <mxRectangle width="128" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-111" value="Документы, законодательная база" style="connectable=0;recursiveResize=0;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;strokeColor=light-dark(#c5d88c, #ededed);" parent="CCX97ZM5BnOViX52MLEG-106" vertex="1">
+          <mxGeometry x="512" width="128" height="113" as="geometry">
+            <mxRectangle width="128" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-112" value="Законы, регламент внутреннего документооборота" style="connectable=0;recursiveResize=0;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;strokeColor=light-dark(#c5d88c, #ededed);" parent="CCX97ZM5BnOViX52MLEG-106" vertex="1">
+          <mxGeometry x="640" width="128" height="113" as="geometry">
+            <mxRectangle width="128" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-120" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=11;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-1" vertex="1">
+          <mxGeometry y="641" width="768" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-121" value="5.&amp;nbsp;Исполнение решения" style="connectable=0;recursiveResize=0;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=15;whiteSpace=wrap;align=center;fontStyle=1;spacingRight=0;spacingLeft=6;strokeColor=#82b366;fillColor=light-dark(#ebf2d6, #1f2f1e);" parent="CCX97ZM5BnOViX52MLEG-120" vertex="1">
+          <mxGeometry width="126" height="113" as="geometry">
+            <mxRectangle width="126" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-122" value="Финальное решение по претензии, товар" style="connectable=0;recursiveResize=0;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;strokeColor=#82b366;fillColor=light-dark(#ebf2d6, #1f2f1e);" parent="CCX97ZM5BnOViX52MLEG-120" vertex="1">
+          <mxGeometry x="126" width="129" height="113" as="geometry">
+            <mxRectangle width="129" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-123" value="Переведенные денежные средства, обменянный товар или отказ" style="connectable=0;recursiveResize=0;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;strokeColor=#82b366;fillColor=light-dark(#ebf2d6, #1f2f1e);" parent="CCX97ZM5BnOViX52MLEG-120" vertex="1">
+          <mxGeometry x="255" width="129" height="113" as="geometry">
+            <mxRectangle width="129" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-124" value="Менеджер, бухгалтер, продавец" style="connectable=0;recursiveResize=0;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;strokeColor=#82b366;fillColor=light-dark(#ebf2d6, #1f2f1e);" parent="CCX97ZM5BnOViX52MLEG-120" vertex="1">
+          <mxGeometry x="384" width="128" height="113" as="geometry">
+            <mxRectangle width="128" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-125" value="Кассовый аппарат, складской учет" style="connectable=0;recursiveResize=0;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;strokeColor=#82b366;fillColor=light-dark(#ebf2d6, #1f2f1e);" parent="CCX97ZM5BnOViX52MLEG-120" vertex="1">
+          <mxGeometry x="512" width="128" height="113" as="geometry">
+            <mxRectangle width="128" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCX97ZM5BnOViX52MLEG-126" value="Законы, бухгалтерские нормы, внутренние регламенты" style="connectable=0;recursiveResize=0;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;strokeColor=#82b366;fillColor=light-dark(#ebf2d6, #1f2f1e);" parent="CCX97ZM5BnOViX52MLEG-120" vertex="1">
+          <mxGeometry x="640" width="128" height="113" as="geometry">
+            <mxRectangle width="128" height="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XotNRW-NYKiYrAFFQa7T" name="Организационная иерархия">
+    <mxGraphModel dx="1529" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ea9OWGYs_yXZwqQitHLF-1" value="Orgchart" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="250" y="1480" width="940" height="220" as="geometry">
+            <mxRectangle x="50" y="100" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;strong data-end=&quot;204&quot; data-start=&quot;169&quot;&gt;Специалисты по приёму претензий&lt;/strong&gt; (2 человека)&amp;nbsp;" treeRoot="1" id="Ea9OWGYs_yXZwqQitHLF-2">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Ea9OWGYs_yXZwqQitHLF-1">
+            <mxGeometry x="10" y="80" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;strong data-end=&quot;311&quot; data-start=&quot;271&quot;&gt;Эксперты по проверке качества товара&lt;/strong&gt; (2 человека)" treeRoot="1" id="Ea9OWGYs_yXZwqQitHLF-3">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Ea9OWGYs_yXZwqQitHLF-1">
+            <mxGeometry x="144" y="80" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;strong data-end=&quot;429&quot; data-start=&quot;394&quot;&gt;Менеджеры по возвратам и обмену&lt;/strong&gt; (2 человека)" treeRoot="1" id="Ea9OWGYs_yXZwqQitHLF-4">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Ea9OWGYs_yXZwqQitHLF-1">
+            <mxGeometry x="280" y="80" width="140" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;strong data-end=&quot;549&quot; data-start=&quot;518&quot;&gt;Юрист по вопросам претензий&lt;/strong&gt;" treeRoot="1" id="Ea9OWGYs_yXZwqQitHLF-5">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Ea9OWGYs_yXZwqQitHLF-1">
+            <mxGeometry x="440" y="80" width="140" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;Бухгалтер по операциям возвратов&lt;/b&gt;" treeRoot="1" id="Ea9OWGYs_yXZwqQitHLF-6">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Ea9OWGYs_yXZwqQitHLF-1">
+            <mxGeometry x="600" y="80" width="140" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;Кладовщик&lt;/b&gt;" treeRoot="1" id="Ea9OWGYs_yXZwqQitHLF-7">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Ea9OWGYs_yXZwqQitHLF-1">
+            <mxGeometry x="757" y="80" width="140" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Отдел по оформлению возврата товара" treeRoot="1" id="Ea9OWGYs_yXZwqQitHLF-8">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+            <mxGeometry x="120" y="1390" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="xLkj3UmLZrElrgqZlMB3-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ea9OWGYs_yXZwqQitHLF-8" target="Ea9OWGYs_yXZwqQitHLF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="1360" as="sourcePoint" />
+            <mxPoint x="220" y="1310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ujSSK33J6RlKMa8mYEle-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB6b29tQW5kUGFuPSJtYWduaWZ5IiB3aWR0aD0iMjI3MS45OTgzMzU2NTkyNDQiIHZpZXdCb3g9IjEwLjkzNzUgMTAuOTM3NSAyMjcxLjM3ODQxNzk2ODc1IDc4OC4yMDk4Mzg4NjcxODc1IiB2ZXJzaW9uPSIxLjEiIHN0eWxlPSJ3aWR0aDoyMjkwcHg7aGVpZ2h0OjgwN3B4O2JhY2tncm91bmQ6I0ZGRkZGRjsiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIGhlaWdodD0iNzg5LjAwMzQyMDY0NDIzNzgiIGRhdGEtZGlhZ3JhbS10eXBlPSJDTEFTUyI+PGRlZnMvPjxnPjxnIGlkPSJlbnRpdHlfQ0VPIiBkYXRhLXVpZD0iZW50MDAwMiIgZGF0YS1zb3VyY2UtbGluZT0iNCIgZGF0YS1lbnRpdHk9IkNFTyIgY2xhc3M9ImVudGl0eSI+PHJlY3QgeT0iMTAuOTM3NSIgeD0iMTA4OS4wNDY5IiB3aWR0aD0iMjkzLjI1MSIgc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDowLjc4MTM7IiByeT0iMy45MDYzIiByeD0iMy45MDYzIiBoZWlnaHQ9IjU2LjcxMzkiIGZpbGw9IiNGMUYxRjEiLz48dGV4dCB5PSIzNC4zNjc0IiB4PSIxMDk5Ljk4NDQiIHRleHRMZW5ndGg9IjI3MS4zNzYiIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj7Qk9C10L3QtdGA0LDQu9GM0L3Ri9C5INC00LjRgNC10LrRgtC+0YA8L3RleHQ+PGxpbmUgeTI9IjQyLjY1MTQiIHkxPSI0Mi42NTE0IiB4Mj0iMTM4MC43MzU0IiB4MT0iMTA5MC42MDk0IiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjAuNzgxMzsiLz48L2c+PGcgaWQ9ImVudGl0eV9DbGllbnRWUCIgZGF0YS11aWQ9ImVudDAwMDMiIGRhdGEtc291cmNlLWxpbmU9IjciIGRhdGEtZW50aXR5PSJDbGllbnRWUCIgY2xhc3M9ImVudGl0eSI+PHJlY3QgeT0iMTc0LjEyNSIgeD0iMzYwLjEwOTQiIHdpZHRoPSIxOTQuODU2MyIgc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDowLjc4MTM7IiByeT0iMy45MDYzIiByeD0iMy45MDYzIiBoZWlnaHQ9IjEzMy4xMDU1IiBmaWxsPSIjRjFGMUYxIi8+PHRleHQgeT0iMTk3LjU1NDkiIHg9IjM4Mi44MTIyIiB0ZXh0TGVuZ3RoPSIxNDkuNDUwNyIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPtCX0LDQvNC10YHRgtC40YLQtdC70Yw8L3RleHQ+PHRleHQgeT0iMjIzLjAxODciIHg9IjQ0My42OTQ3IiB0ZXh0TGVuZ3RoPSIyNy42ODU1IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0L/QvjwvdGV4dD48dGV4dCB5PSIyNDguNDgyNiIgeD0iMzgyLjU0NTEiIHRleHRMZW5ndGg9IjE0OS45ODQ3IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0LrQu9C40LXQvdGC0YHQutC+0LzRgzwvdGV4dD48dGV4dCB5PSIyNzMuOTQ2NSIgeD0iMzcxLjA0NjkiIHRleHRMZW5ndGg9IjE3Mi45ODEzIiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0L7QsdGB0LvRg9C20LjQstCw0L3QuNGOPC90ZXh0PjxsaW5lIHkyPSIyODIuMjMwNSIgeTE9IjI4Mi4yMzA1IiB4Mj0iNTUzLjQwMzEiIHgxPSIzNjEuNjcxOSIgc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDowLjc4MTM7Ii8+PC9nPjxnIGlkPSJlbnRpdHlfRmluYW5jZVZQIiBkYXRhLXVpZD0iZW50MDAwNCIgZGF0YS1zb3VyY2UtbGluZT0iOCIgZGF0YS1lbnRpdHk9IkZpbmFuY2VWUCIgY2xhc3M9ImVudGl0eSI+PHJlY3QgeT0iMTg2Ljg1OTQiIHg9IjkyMy40Mzc1IiB3aWR0aD0iMTcxLjMyNTciIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MC43ODEzOyIgcnk9IjMuOTA2MyIgcng9IjMuOTA2MyIgaGVpZ2h0PSIxMDcuNjQxNiIgZmlsbD0iI0YxRjFGMSIvPjx0ZXh0IHk9IjIxMC4yODkyIiB4PSI5MzQuMzc1IiB0ZXh0TGVuZ3RoPSIxNDkuNDUwNyIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPtCX0LDQvNC10YHRgtC40YLQtdC70Yw8L3RleHQ+PHRleHQgeT0iMjM1Ljc1MzEiIHg9Ijk5NS4yNTc2IiB0ZXh0TGVuZ3RoPSIyNy42ODU1IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0L/QvjwvdGV4dD48dGV4dCB5PSIyNjEuMjE3IiB4PSI5NTAuNjY5MSIgdGV4dExlbmd0aD0iMTE2Ljg2MjUiIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj7RhNC40L3QsNC90YHQsNC8PC90ZXh0PjxsaW5lIHkyPSIyNjkuNTAxIiB5MT0iMjY5LjUwMSIgeDI9IjEwOTMuMjAwNyIgeDE9IjkyNSIgc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDowLjc4MTM7Ii8+PC9nPjxnIGlkPSJlbnRpdHlfTGVnYWxWUCIgZGF0YS11aWQ9ImVudDAwMDUiIGRhdGEtc291cmNlLWxpbmU9IjkiIGRhdGEtZW50aXR5PSJMZWdhbFZQIiBjbGFzcz0iZW50aXR5Ij48cmVjdCB5PSIxNzQuMTI1IiB4PSIxMTUwIiB3aWR0aD0iMTcxLjMyNTciIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MC43ODEzOyIgcnk9IjMuOTA2MyIgcng9IjMuOTA2MyIgaGVpZ2h0PSIxMzMuMTA1NSIgZmlsbD0iI0YxRjFGMSIvPjx0ZXh0IHk9IjE5Ny41NTQ5IiB4PSIxMTYwLjkzNzUiIHRleHRMZW5ndGg9IjE0OS40NTA3IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0JfQsNC80LXRgdGC0LjRgtC10LvRjDwvdGV4dD48dGV4dCB5PSIyMjMuMDE4NyIgeD0iMTIyMS44MjAxIiB0ZXh0TGVuZ3RoPSIyNy42ODU1IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0L/QvjwvdGV4dD48dGV4dCB5PSIyNDguNDgyNiIgeD0iMTE3OC4zOTU4IiB0ZXh0TGVuZ3RoPSIxMTQuNTM0IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0L/RgNCw0LLQvtCy0YvQvDwvdGV4dD48dGV4dCB5PSIyNzMuOTQ2NSIgeD0iMTE4MC43NzI0IiB0ZXh0TGVuZ3RoPSIxMDkuNzgwOSIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPtCy0L7Qv9GA0L7RgdCw0Lw8L3RleHQ+PGxpbmUgeTI9IjI4Mi4yMzA1IiB5MT0iMjgyLjIzMDUiIHgyPSIxMzE5Ljc2MzIiIHgxPSIxMTUxLjU2MjUiIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MC43ODEzOyIvPjwvZz48ZyBpZD0iZW50aXR5X0xvZ2lzdGljc1ZQIiBkYXRhLXVpZD0iZW50MDAwNiIgZGF0YS1zb3VyY2UtbGluZT0iMTAiIGRhdGEtZW50aXR5PSJMb2dpc3RpY3NWUCIgY2xhc3M9ImVudGl0eSI+PHJlY3QgeT0iMTYxLjM5MDYiIHg9IjEzNzYuNTYyNSIgd2lkdGg9IjE3MS4zMjU3IiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjAuNzgxMzsiIHJ5PSIzLjkwNjMiIHJ4PSIzLjkwNjMiIGhlaWdodD0iMTU4LjU2OTMiIGZpbGw9IiNGMUYxRjEiLz48dGV4dCB5PSIxODQuODIwNSIgeD0iMTM4Ny41IiB0ZXh0TGVuZ3RoPSIxNDkuNDUwNyIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPtCX0LDQvNC10YHRgtC40YLQtdC70Yw8L3RleHQ+PHRleHQgeT0iMjEwLjI4NDQiIHg9IjE0NDguMzgyNiIgdGV4dExlbmd0aD0iMjcuNjg1NSIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPtC/0L48L3RleHQ+PHRleHQgeT0iMjM1Ljc0ODIiIHg9IjE0MjEuODc3MyIgdGV4dExlbmd0aD0iODAuNjk2MSIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPtGB0LrQu9Cw0LTRgzwvdGV4dD48dGV4dCB5PSIyNjEuMjEyMSIgeD0iMTQ1NS4xMTciIHRleHRMZW5ndGg9IjE0LjIxNjYiIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj7QuDwvdGV4dD48dGV4dCB5PSIyODYuNjc2IiB4PSIxNDAyLjg1OTUiIHRleHRMZW5ndGg9IjExOC43MzE3IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0LvQvtCz0LjRgdGC0LjQutC1PC90ZXh0PjxsaW5lIHkyPSIyOTQuOTYiIHkxPSIyOTQuOTYiIHgyPSIxNTQ2LjMyNTciIHgxPSIxMzc4LjEyNSIgc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDowLjc4MTM7Ii8+PC9nPjxnIGlkPSJlbnRpdHlfSVRWUCIgZGF0YS11aWQ9ImVudDAwMDciIGRhdGEtc291cmNlLWxpbmU9IjExIiBkYXRhLWVudGl0eT0iSVRWUCIgY2xhc3M9ImVudGl0eSI+PHJlY3QgeT0iMTk5LjU5MzgiIHg9IjE3MTYuNTc4MSIgd2lkdGg9IjIxNi4zMTQ3IiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjAuNzgxMzsiIHJ5PSIzLjkwNjMiIHJ4PSIzLjkwNjMiIGhlaWdodD0iODIuMTc3NyIgZmlsbD0iI0YxRjFGMSIvPjx0ZXh0IHk9IjIyMy4wMjM2IiB4PSIxNzY4Ljc5ODMiIHRleHRMZW5ndGg9IjExMS44NzQ0IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0JTQuNGA0LXQutGC0L7RgDwvdGV4dD48dGV4dCB5PSIyNDguNDg3NSIgeD0iMTcyNy41MTU2IiB0ZXh0TGVuZ3RoPSIxOTQuNDM5NyIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPklULdC00LXQv9Cw0YDRgtCw0LzQtdC90YLQsDwvdGV4dD48bGluZSB5Mj0iMjU2Ljc3MTUiIHkxPSIyNTYuNzcxNSIgeDI9IjE5MzEuMzMwMyIgeDE9IjE3MTguMTQwNiIgc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDowLjc4MTM7Ii8+PC9nPjxnIGlkPSJlbnRpdHlfQ2xhaW1zSGVhZCIgZGF0YS11aWQ9ImVudDAwMDgiIGRhdGEtc291cmNlLWxpbmU9IjE0IiBkYXRhLWVudGl0eT0iQ2xhaW1zSGVhZCIgY2xhc3M9ImVudGl0eSI+PHJlY3QgeT0iNDEzLjcxODgiIHg9IjEwLjkzNzUiIHdpZHRoPSIxOTkuNDU5OCIgc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDowLjc4MTM7IiByeT0iMy45MDYzIiByeD0iMy45MDYzIiBoZWlnaHQ9IjEzMy4xMDU1IiBmaWxsPSIjRjFGMUYxIi8+PHRleHQgeT0iNDM3LjE0ODYiIHg9IjQ4LjI3MzUiIHRleHRMZW5ndGg9IjEyNC43ODc5IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0J3QsNGH0LDQu9GM0L3QuNC6PC90ZXh0Pjx0ZXh0IHk9IjQ2Mi42MTI1IiB4PSI2OS42MTk4IiB0ZXh0TGVuZ3RoPSI4Mi4wOTUzIiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0L7RgtC00LXQu9CwPC90ZXh0Pjx0ZXh0IHk9IjQ4OC4wNzY0IiB4PSIyMS44NzUiIHRleHRMZW5ndGg9IjE3Ny41ODQ4IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0L/RgNC10YLQtdC90LfQuNC+0L3QvdC+0Lk8L3RleHQ+PHRleHQgeT0iNTEzLjU0MDIiIHg9IjY4LjU3ODMiIHRleHRMZW5ndGg9Ijg0LjE3ODIiIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj7RgNCw0LHQvtGC0Ys8L3RleHQ+PGxpbmUgeTI9IjUyMS44MjQyIiB5MT0iNTIxLjgyNDIiIHgyPSIyMDguODM0OCIgeDE9IjEyLjUiIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MC43ODEzOyIvPjwvZz48ZyBpZD0iZW50aXR5X1F1YWxpdHlIZWFkIiBkYXRhLXVpZD0iZW50MDAwOSIgZGF0YS1zb3VyY2UtbGluZT0iMTUiIGRhdGEtZW50aXR5PSJRdWFsaXR5SGVhZCIgY2xhc3M9ImVudGl0eSI+PHJlY3QgeT0iNDEzLjcxODgiIHg9IjI2NS4xNzE5IiB3aWR0aD0iMTU2LjYyODQiIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MC43ODEzOyIgcnk9IjMuOTA2MyIgcng9IjMuOTA2MyIgaGVpZ2h0PSIxMzMuMTA1NSIgZmlsbD0iI0YxRjFGMSIvPjx0ZXh0IHk9IjQzNy4xNDg2IiB4PSIyODEuMDkyMSIgdGV4dExlbmd0aD0iMTI0Ljc4NzkiIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj7QndCw0YfQsNC70YzQvdC40Lo8L3RleHQ+PHRleHQgeT0iNDYyLjYxMjUiIHg9IjMwMi40Mzg0IiB0ZXh0TGVuZ3RoPSI4Mi4wOTUzIiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0L7RgtC00LXQu9CwPC90ZXh0Pjx0ZXh0IHk9IjQ4OC4wNzY0IiB4PSIyNzYuMTA5NCIgdGV4dExlbmd0aD0iMTM0Ljc1MzQiIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj7RjdC60YHQv9C10YDRgtC40LfRizwvdGV4dD48dGV4dCB5PSI1MTMuNTQwMiIgeD0iMjk3LjE5NCIgdGV4dExlbmd0aD0iOTIuNTg0MiIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPtGC0L7QstCw0YDQvtCyPC90ZXh0PjxsaW5lIHkyPSI1MjEuODI0MiIgeTE9IjUyMS44MjQyIiB4Mj0iNDIwLjIzNzgiIHgxPSIyNjYuNzM0NCIgc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDowLjc4MTM7Ii8+PC9nPjxnIGlkPSJlbnRpdHlfQ3VzdG9tZXJTZXJ2aWNlSGVhZCIgZGF0YS11aWQ9ImVudDAwMTAiIGRhdGEtc291cmNlLWxpbmU9IjE2IiBkYXRhLWVudGl0eT0iQ3VzdG9tZXJTZXJ2aWNlSGVhZCIgY2xhc3M9ImVudGl0eSI+PHJlY3QgeT0iNDEzLjcxODgiIHg9IjQ3Ni43OTY5IiB3aWR0aD0iMTg5LjYwMTEiIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MC43ODEzOyIgcnk9IjMuOTA2MyIgcng9IjMuOTA2MyIgaGVpZ2h0PSIxMzMuMTA1NSIgZmlsbD0iI0YxRjFGMSIvPjx0ZXh0IHk9IjQzNy4xNDg2IiB4PSI1MDkuMjAzNSIgdGV4dExlbmd0aD0iMTI0Ljc4NzkiIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj7QndCw0YfQsNC70YzQvdC40Lo8L3RleHQ+PHRleHQgeT0iNDYyLjYxMjUiIHg9IjUzMC41NDk4IiB0ZXh0TGVuZ3RoPSI4Mi4wOTUzIiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0L7RgtC00LXQu9CwPC90ZXh0Pjx0ZXh0IHk9IjQ4OC4wNzY0IiB4PSI0ODcuNzM0NCIgdGV4dExlbmd0aD0iMTY3LjcyNjEiIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj7QvtCx0YHQu9GD0LbQuNCy0LDQvdC40Y88L3RleHQ+PHRleHQgeT0iNTEzLjU0MDIiIHg9IjUxNy41MDI3IiB0ZXh0TGVuZ3RoPSIxMDguMTg5NCIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPtC60LvQuNC10L3RgtC+0LI8L3RleHQ+PGxpbmUgeTI9IjUyMS44MjQyIiB5MT0iNTIxLjgyNDIiIHgyPSI2NjQuODM1NSIgeDE9IjQ3OC4zNTk0IiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjAuNzgxMzsiLz48L2c+PGcgaWQ9ImVudGl0eV9GaW5hbmNlSGVhZCIgZGF0YS11aWQ9ImVudDAwMTEiIGRhdGEtc291cmNlLWxpbmU9IjE5IiBkYXRhLWVudGl0eT0iRmluYW5jZUhlYWQiIGNsYXNzPSJlbnRpdHkiPjxyZWN0IHk9IjQyNi40NTMxIiB4PSI3MjAuODU5NCIgd2lkdGg9IjE3My4zNjU4IiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjAuNzgxMzsiIHJ5PSIzLjkwNjMiIHJ4PSIzLjkwNjMiIGhlaWdodD0iMTA3LjY0MTYiIGZpbGw9IiNGMUYxRjEiLz48dGV4dCB5PSI0NDkuODgzIiB4PSI3NDUuMTQ4MyIgdGV4dExlbmd0aD0iMTI0Ljc4NzkiIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj7QndCw0YfQsNC70YzQvdC40Lo8L3RleHQ+PHRleHQgeT0iNDc1LjM0NjkiIHg9IjczMS43OTY5IiB0ZXh0TGVuZ3RoPSIxNTEuNDkwOCIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPtGE0LjQvdCw0L3RgdC+0LLQvtCz0L48L3RleHQ+PHRleHQgeT0iNTAwLjgxMDciIHg9Ijc2Ni40OTQ2IiB0ZXh0TGVuZ3RoPSI4Mi4wOTUzIiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0L7RgtC00LXQu9CwPC90ZXh0PjxsaW5lIHkyPSI1MDkuMDk0NyIgeTE9IjUwOS4wOTQ3IiB4Mj0iODkyLjY2MjciIHgxPSI3MjIuNDIxOSIgc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDowLjc4MTM7Ii8+PC9nPjxnIGlkPSJlbnRpdHlfQ2hpZWZBY2NvdW50YW50IiBkYXRhLXVpZD0iZW50MDAxMiIgZGF0YS1zb3VyY2UtbGluZT0iMjAiIGRhdGEtZW50aXR5PSJDaGllZkFjY291bnRhbnQiIGNsYXNzPSJlbnRpdHkiPjxyZWN0IHk9IjQzOS4xNzE5IiB4PSI5NDguMzc1IiB3aWR0aD0iMTQwLjIyMjIiIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MC43ODEzOyIgcnk9IjMuOTA2MyIgcng9IjMuOTA2MyIgaGVpZ2h0PSI4Mi4xNzc3IiBmaWxsPSIjRjFGMUYxIi8+PHRleHQgeT0iNDYyLjYwMTciIHg9Ijk2OC43ODEzIiB0ZXh0TGVuZ3RoPSI5OS40MDk1IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0JPQu9Cw0LLQvdGL0Lk8L3RleHQ+PHRleHQgeT0iNDg4LjA2NTYiIHg9Ijk1OS4zMTI1IiB0ZXh0TGVuZ3RoPSIxMTguMzQ3MiIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPtCx0YPRhdCz0LDQu9GC0LXRgDwvdGV4dD48bGluZSB5Mj0iNDk2LjM0OTYiIHkxPSI0OTYuMzQ5NiIgeDI9IjEwODcuMDM0NyIgeDE9Ijk0OS45Mzc1IiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjAuNzgxMzsiLz48L2c+PGcgaWQ9ImVudGl0eV9MZWdhbEhlYWQiIGRhdGEtdWlkPSJlbnQwMDEzIiBkYXRhLXNvdXJjZS1saW5lPSIyMyIgZGF0YS1lbnRpdHk9IkxlZ2FsSGVhZCIgY2xhc3M9ImVudGl0eSI+PHJlY3QgeT0iNDI2LjQ1MzEiIHg9IjExNDMuNDIxOSIgd2lkdGg9IjE4Ny42MTQ0IiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjAuNzgxMzsiIHJ5PSIzLjkwNjMiIHJ4PSIzLjkwNjMiIGhlaWdodD0iMTA3LjY0MTYiIGZpbGw9IiNGMUYxRjEiLz48dGV4dCB5PSI0NDkuODgzIiB4PSIxMTc0LjgzNTEiIHRleHRMZW5ndGg9IjEyNC43ODc5IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0J3QsNGH0LDQu9GM0L3QuNC6PC90ZXh0Pjx0ZXh0IHk9IjQ3NS4zNDY5IiB4PSIxMTU0LjM1OTQiIHRleHRMZW5ndGg9IjE2NS43Mzk0IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0Y7RgNC40LTQuNGH0LXRgdC60L7Qs9C+PC90ZXh0Pjx0ZXh0IHk9IjUwMC44MTA3IiB4PSIxMTk2LjE4MTQiIHRleHRMZW5ndGg9IjgyLjA5NTMiIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj7QvtGC0LTQtdC70LA8L3RleHQ+PGxpbmUgeTI9IjUwOS4wOTQ3IiB5MT0iNTA5LjA5NDciIHgyPSIxMzI5LjQ3MzgiIHgxPSIxMTQ0Ljk4NDQiIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MC43ODEzOyIvPjwvZz48ZyBpZD0iZW50aXR5X1dhcmVob3VzZUhlYWQiIGRhdGEtdWlkPSJlbnQwMDE0IiBkYXRhLXNvdXJjZS1saW5lPSIyNiIgZGF0YS1lbnRpdHk9IldhcmVob3VzZUhlYWQiIGNsYXNzPSJlbnRpdHkiPjxyZWN0IHk9IjQyNi40NTMxIiB4PSIxMzg1LjY3MTkiIHdpZHRoPSIxNTMuMTI1IiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjAuNzgxMzsiIHJ5PSIzLjkwNjMiIHJ4PSIzLjkwNjMiIGhlaWdodD0iMTA3LjY0MTYiIGZpbGw9IiNGMUYxRjEiLz48dGV4dCB5PSI0NDkuODgzIiB4PSIxMzk5Ljg0MDQiIHRleHRMZW5ndGg9IjEyNC43ODc5IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0J3QsNGH0LDQu9GM0L3QuNC6PC90ZXh0Pjx0ZXh0IHk9IjQ3NS4zNDY5IiB4PSIxMzk2LjYwOTQiIHRleHRMZW5ndGg9IjEzMS4yNSIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPtGB0LrQu9Cw0LTRgdC60L7Qs9C+PC90ZXh0Pjx0ZXh0IHk9IjUwMC44MTA3IiB4PSIxNDIxLjE4NjciIHRleHRMZW5ndGg9IjgyLjA5NTMiIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj7QvtGC0LTQtdC70LA8L3RleHQ+PGxpbmUgeTI9IjUwOS4wOTQ3IiB5MT0iNTA5LjA5NDciIHgyPSIxNTM3LjIzNDQiIHgxPSIxMzg3LjIzNDQiIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MC43ODEzOyIvPjwvZz48ZyBpZD0iZW50aXR5X0RldlRlYW0iIGRhdGEtdWlkPSJlbnQwMDE1IiBkYXRhLXNvdXJjZS1saW5lPSIyOSIgZGF0YS1lbnRpdHk9IkRldlRlYW0iIGNsYXNzPSJlbnRpdHkiPjxyZWN0IHk9IjQzOS4xNzE5IiB4PSIxNTkzLjMxMjUiIHdpZHRoPSIxODEuNTc5NiIgc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDowLjc4MTM7IiByeT0iMy45MDYzIiByeD0iMy45MDYzIiBoZWlnaHQ9IjgyLjE3NzciIGZpbGw9IiNGMUYxRjEiLz48dGV4dCB5PSI0NjIuNjAxNyIgeD0iMTYwNC4yNSIgdGV4dExlbmd0aD0iMTU5LjcwNDYiIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj7QoNCw0LfRgNCw0LHQvtGC0YfQuNC60Lg8L3RleHQ+PHRleHQgeT0iNDg4LjA2NTYiIHg9IjE2NjcuMjY4OCIgdGV4dExlbmd0aD0iMzMuNjY3IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0J/QnjwvdGV4dD48bGluZSB5Mj0iNDk2LjM0OTYiIHkxPSI0OTYuMzQ5NiIgeDI9IjE3NzMuMzI5NiIgeDE9IjE1OTQuODc1IiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjAuNzgxMzsiLz48L2c+PGcgaWQ9ImVudGl0eV9JVEFkbWlucyIgZGF0YS11aWQ9ImVudDAwMTYiIGRhdGEtc291cmNlLWxpbmU9IjMwIiBkYXRhLWVudGl0eT0iSVRBZG1pbnMiIGNsYXNzPSJlbnRpdHkiPjxyZWN0IHk9IjQzOS4xNzE5IiB4PSIxODMwLjA3ODEiIHdpZHRoPSIyMjAuNTQ0NCIgc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDowLjc4MTM7IiByeT0iMy45MDYzIiByeD0iMy45MDYzIiBoZWlnaHQ9IjgyLjE3NzciIGZpbGw9IiNGMUYxRjEiLz48dGV4dCB5PSI0NjIuNjAxNyIgeD0iMTg0MS4wMTU2IiB0ZXh0TGVuZ3RoPSIxOTguNjY5NCIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPtCQ0LTQvNC40L3QuNGB0YLRgNCw0YLQvtGA0Ys8L3RleHQ+PHRleHQgeT0iNDg4LjA2NTYiIHg9IjE4ODEuMDUzOSIgdGV4dExlbmd0aD0iMTE4LjU5MjgiIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj7QmNCiLdGB0LjRgdGC0LXQvDwvdGV4dD48bGluZSB5Mj0iNDk2LjM0OTYiIHkxPSI0OTYuMzQ5NiIgeDI9IjIwNDkuMDYwMSIgeDE9IjE4MzEuNjQwNiIgc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDowLjc4MTM7Ii8+PC9nPjxnIGlkPSJlbnRpdHlfU3VwcG9ydFRlYW0iIGRhdGEtdWlkPSJlbnQwMDE3IiBkYXRhLXNvdXJjZS1saW5lPSIzMSIgZGF0YS1lbnRpdHk9IlN1cHBvcnRUZWFtIiBjbGFzcz0iZW50aXR5Ij48cmVjdCB5PSI0MjYuNDUzMSIgeD0iMjEwNC42NTYzIiB3aWR0aD0iMTc3LjY1OTYiIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MC43ODEzOyIgcnk9IjMuOTA2MyIgcng9IjMuOTA2MyIgaGVpZ2h0PSIxMDcuNjQxNiIgZmlsbD0iI0YxRjFGMSIvPjx0ZXh0IHk9IjQ0OS44ODMiIHg9IjIxMTUuNTkzOCIgdGV4dExlbmd0aD0iMTU1Ljc4NDYiIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj7QodC/0LXRhtC40LDQu9C40YHRgtGLPC90ZXh0Pjx0ZXh0IHk9IjQ3NS4zNDY5IiB4PSIyMTcwLjQzNjEiIHRleHRMZW5ndGg9IjQ2LjA5OTkiIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj7RgtC10YUuPC90ZXh0Pjx0ZXh0IHk9IjUwMC44MTA3IiB4PSIyMTI3LjI3ODkiIHRleHRMZW5ndGg9IjEzMi40MTQyIiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0L/QvtC00LTQtdGA0LbQutC4PC90ZXh0PjxsaW5lIHkyPSI1MDkuMDk0NyIgeTE9IjUwOS4wOTQ3IiB4Mj0iMjI4MC43NTM0IiB4MT0iMjEwNi4yMTg4IiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjAuNzgxMzsiLz48L2c+PGcgaWQ9ImVudGl0eV9DbGFpbXNTcGVjaWFsaXN0cyIgZGF0YS11aWQ9ImVudDAwMTgiIGRhdGEtc291cmNlLWxpbmU9IjM0IiBkYXRhLWVudGl0eT0iQ2xhaW1zU3BlY2lhbGlzdHMiIGNsYXNzPSJlbnRpdHkiPjxyZWN0IHk9IjY0MC41NzgxIiB4PSIyMS44NDM4IiB3aWR0aD0iMTc3LjY1OTYiIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MC43ODEzOyIgcnk9IjMuOTA2MyIgcng9IjMuOTA2MyIgaGVpZ2h0PSIxNTguNTY5MyIgZmlsbD0iI0YxRjFGMSIvPjx0ZXh0IHk9IjY2NC4wMDgiIHg9IjMyLjc4MTMiIHRleHRMZW5ndGg9IjE1NS43ODQ2IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0KHQv9C10YbQuNCw0LvQuNGB0YLRizwvdGV4dD48dGV4dCB5PSI2ODkuNDcxOSIgeD0iOTYuODMwOCIgdGV4dExlbmd0aD0iMjcuNjg1NSIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPtC/0L48L3RleHQ+PHRleHQgeT0iNzE0LjkzNTciIHg9IjY4LjAxODQiIHRleHRMZW5ndGg9Ijg1LjMxMDQiIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj7Qv9GA0LjRkdC80YM8L3RleHQ+PHRleHQgeT0iNzQwLjM5OTYiIHg9IjQ5LjU2NjciIHRleHRMZW5ndGg9IjEyMi4yMTM3IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0L/RgNC10YLQtdC90LfQuNC5PC90ZXh0Pjx0ZXh0IHk9Ijc2NS44NjM1IiB4PSI2OC4wNDUxIiB0ZXh0TGVuZ3RoPSI4NS4yNTciIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj4oMiDRh9C10LsuKTwvdGV4dD48bGluZSB5Mj0iNzc0LjE0NzUiIHkxPSI3NzQuMTQ3NSIgeDI9IjE5Ny45NDA5IiB4MT0iMjMuNDA2MyIgc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDowLjc4MTM7Ii8+PC9nPjxnIGlkPSJlbnRpdHlfUXVhbGl0eUV4cGVydHMiIGRhdGEtdWlkPSJlbnQwMDE5IiBkYXRhLXNvdXJjZS1saW5lPSIzNSIgZGF0YS1lbnRpdHk9IlF1YWxpdHlFeHBlcnRzIiBjbGFzcz0iZW50aXR5Ij48cmVjdCB5PSI2NDAuNTc4MSIgeD0iMjc2LjQ1MzEiIHdpZHRoPSIxMzQuMDQ4NSIgc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDowLjc4MTM7IiByeT0iMy45MDYzIiByeD0iMy45MDYzIiBoZWlnaHQ9IjE1OC41NjkzIiBmaWxsPSIjRjFGMUYxIi8+PHRleHQgeT0iNjY0LjAwOCIgeD0iMjg3LjM5MDYiIHRleHRMZW5ndGg9IjExMi4xNzM1IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0K3QutGB0L/QtdGA0YLRizwvdGV4dD48dGV4dCB5PSI2ODkuNDcxOSIgeD0iMzI5LjYzNDYiIHRleHRMZW5ndGg9IjI3LjY4NTUiIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj7Qv9C+PC90ZXh0Pjx0ZXh0IHk9IjcxNC45MzU3IiB4PSIyODkuMjM4NSIgdGV4dExlbmd0aD0iMTA4LjQ3NzgiIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj7Qv9GA0L7QstC10YDQutC1PC90ZXh0Pjx0ZXh0IHk9Ijc0MC4zOTk2IiB4PSIyOTEuNDQ0MSIgdGV4dExlbmd0aD0iMTA0LjA2NjUiIGxlbmd0aEFkanVzdD0ic3BhY2luZyIgZm9udC1zaXplPSIyMS44NzUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjMDAwMDAwIj7QutCw0YfQtdGB0YLQstCwPC90ZXh0Pjx0ZXh0IHk9Ijc2NS44NjM1IiB4PSIzMDAuODQ4OSIgdGV4dExlbmd0aD0iODUuMjU3IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+KDIg0YfQtdC7Lik8L3RleHQ+PGxpbmUgeTI9Ijc3NC4xNDc1IiB5MT0iNzc0LjE0NzUiIHgyPSI0MDguOTM5MSIgeDE9IjI3OC4wMTU2IiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjAuNzgxMzsiLz48L2c+PGcgaWQ9ImVudGl0eV9DdXN0b21lck1hbmFnZXJzIiBkYXRhLXVpZD0iZW50MDAyMCIgZGF0YS1zb3VyY2UtbGluZT0iMzYiIGRhdGEtZW50aXR5PSJDdXN0b21lck1hbmFnZXJzIiBjbGFzcz0iZW50aXR5Ij48cmVjdCB5PSI2NDAuNTc4MSIgeD0iNDkwLjg5MDYiIHdpZHRoPSIxNjEuNDEzNiIgc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDowLjc4MTM7IiByeT0iMy45MDYzIiByeD0iMy45MDYzIiBoZWlnaHQ9IjE1OC41NjkzIiBmaWxsPSIjRjFGMUYxIi8+PHRleHQgeT0iNjY0LjAwOCIgeD0iNTAxLjgyODEiIHRleHRMZW5ndGg9IjEzOS41Mzg2IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0JzQtdC90LXQtNC20LXRgNGLPC90ZXh0Pjx0ZXh0IHk9IjY4OS40NzE5IiB4PSI1NTcuNzU0NiIgdGV4dExlbmd0aD0iMjcuNjg1NSIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPtC/0L48L3RleHQ+PHRleHQgeT0iNzE0LjkzNTciIHg9IjUxOS43MDg0IiB0ZXh0TGVuZ3RoPSIxMDMuNzc4MSIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPtCy0L7Qt9Cy0YDQsNGC0YM8L3RleHQ+PHRleHQgeT0iNzQwLjM5OTYiIHg9IjU2NC40ODkxIiB0ZXh0TGVuZ3RoPSIxNC4yMTY2IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0Lg8L3RleHQ+PHRleHQgeT0iNzY1Ljg2MzUiIHg9IjUyMS4wNzU2IiB0ZXh0TGVuZ3RoPSIxMDEuMDQzNyIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPtC+0LHQvNC10L3QsNC8PC90ZXh0PjxsaW5lIHkyPSI3NzQuMTQ3NSIgeTE9Ijc3NC4xNDc1IiB4Mj0iNjUwLjc0MTciIHgxPSI0OTIuNDUzMSIgc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDowLjc4MTM7Ii8+PC9nPjxnIGlkPSJlbnRpdHlfTGVnYWxTcGVjaWFsaXN0IiBkYXRhLXVpZD0iZW50MDAyMSIgZGF0YS1zb3VyY2UtbGluZT0iMzciIGRhdGEtZW50aXR5PSJMZWdhbFNwZWNpYWxpc3QiIGNsYXNzPSJlbnRpdHkiPjxyZWN0IHk9IjY2Ni4wMzEzIiB4PSIxMTU3LjQ2ODgiIHdpZHRoPSIxNTkuNTMzNyIgc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDowLjc4MTM7IiByeT0iMy45MDYzIiByeD0iMy45MDYzIiBoZWlnaHQ9IjEwNy42NDE2IiBmaWxsPSIjRjFGMUYxIi8+PHRleHQgeT0iNjg5LjQ2MTEiIHg9IjExOTguOTkxNyIgdGV4dExlbmd0aD0iNzYuNDg3NyIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPtCu0YDQuNGB0YI8L3RleHQ+PHRleHQgeT0iNzE0LjkyNSIgeD0iMTIyMy4zOTI4IiB0ZXh0TGVuZ3RoPSIyNy42ODU1IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0L/QvjwvdGV4dD48dGV4dCB5PSI3NDAuMzg4OSIgeD0iMTE2OC40MDYzIiB0ZXh0TGVuZ3RoPSIxMzcuNjU4NyIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPtC/0YDQtdGC0LXQvdC30LjRj9C8PC90ZXh0PjxsaW5lIHkyPSI3NDguNjcyOSIgeTE9Ijc0OC42NzI5IiB4Mj0iMTMxNS40Mzk5IiB4MT0iMTE1OS4wMzEzIiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjAuNzgxMzsiLz48L2c+PGcgaWQ9ImVudGl0eV9SZWZ1bmRBY2NvdW50YW50IiBkYXRhLXVpZD0iZW50MDAyMiIgZGF0YS1zb3VyY2UtbGluZT0iMzgiIGRhdGEtZW50aXR5PSJSZWZ1bmRBY2NvdW50YW50IiBjbGFzcz0iZW50aXR5Ij48cmVjdCB5PSI2NjYuMDMxMyIgeD0iNzM2LjIzNDQiIHdpZHRoPSIxNDIuNjE0NyIgc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDowLjc4MTM7IiByeT0iMy45MDYzIiByeD0iMy45MDYzIiBoZWlnaHQ9IjEwNy42NDE2IiBmaWxsPSIjRjFGMUYxIi8+PHRleHQgeT0iNjg5LjQ2MTEiIHg9Ijc0Ny42MDk4IiB0ZXh0TGVuZ3RoPSIxMTkuODYzOSIgbGVuZ3RoQWRqdXN0PSJzcGFjaW5nIiBmb250LXNpemU9IjIxLjg3NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiPtCR0YPRhdCz0LDQu9GC0LXRgDwvdGV4dD48dGV4dCB5PSI3MTQuOTI1IiB4PSI3OTMuNjk5IiB0ZXh0TGVuZ3RoPSIyNy42ODU1IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0L/QvjwvdGV4dD48dGV4dCB5PSI3NDAuMzg4OSIgeD0iNzQ3LjE3MTkiIHRleHRMZW5ndGg9IjEyMC43Mzk3IiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0LLQvtC30LLRgNCw0YLQsNC8PC90ZXh0PjxsaW5lIHkyPSI3NDguNjcyOSIgeTE9Ijc0OC42NzI5IiB4Mj0iODc3LjI4NjYiIHgxPSI3MzcuNzk2OSIgc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDowLjc4MTM7Ii8+PC9nPjxnIGlkPSJlbnRpdHlfV2FyZWhvdXNlS2VlcGVyIiBkYXRhLXVpZD0iZW50MDAyMyIgZGF0YS1zb3VyY2UtbGluZT0iMzkiIGRhdGEtZW50aXR5PSJXYXJlaG91c2VLZWVwZXIiIGNsYXNzPSJlbnRpdHkiPjxyZWN0IHk9IjY5MS41IiB4PSIxMzg1LjEyNSIgd2lkdGg9IjE1NC4yMjUyIiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjAuNzgxMzsiIHJ5PSIzLjkwNjMiIHJ4PSIzLjkwNjMiIGhlaWdodD0iNTYuNzEzOSIgZmlsbD0iI0YxRjFGMSIvPjx0ZXh0IHk9IjcxNC45Mjk5IiB4PSIxMzk2LjA2MjUiIHRleHRMZW5ndGg9IjEzMi4zNTAyIiBsZW5ndGhBZGp1c3Q9InNwYWNpbmciIGZvbnQtc2l6ZT0iMjEuODc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCI+0JrQu9Cw0LTQvtCy0YnQuNC6PC90ZXh0PjxsaW5lIHkyPSI3MjMuMjEzOSIgeTE9IjcyMy4yMTM5IiB4Mj0iMTUzNy43ODc3IiB4MT0iMTM4Ni42ODc1IiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjAuNzgxMzsiLz48L2c+PGcgaWQ9ImxpbmtfQ0VPX0NsaWVudFZQIiBkYXRhLXVpZD0ibG5rMjQiIGRhdGEtc291cmNlLWxpbmU9IjQyIiBkYXRhLWVudGl0eS0yPSJDbGllbnRWUCIgZGF0YS1lbnRpdHktMT0iQ0VPIiBjbGFzcz0ibGluayI+PHBhdGggc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDoxLjU2MjU7IiBpZD0iQ0VPLXRvLUNsaWVudFZQIiBmaWxsPSJub25lIiBkPSJNMTEyNy40Njg4LDY4LjQyMTkgQzk3NS42NzE5LDEwNy4wOTM3IDcyOS4wMDQzLDE2OS45NDY3IDU4Mi44NjM3LDIwNy4xODEiLz48cG9seWdvbiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjEuNTYyNTsiIHBvaW50cz0iNTU1LjYwOTQsMjE0LjEyNSw1ODUuMTc4MywyMTYuMjY1OCw1ODAuNTQ5LDE5OC4wOTYzLDU1NS42MDk0LDIxNC4xMjUiIGZpbGw9Im5vbmUiLz48L2c+PGcgaWQ9ImxpbmtfQ0VPX0ZpbmFuY2VWUCIgZGF0YS11aWQ9ImxuazI1IiBkYXRhLXNvdXJjZS1saW5lPSI0MyIgZGF0YS1lbnRpdHktMj0iRmluYW5jZVZQIiBkYXRhLWVudGl0eS0xPSJDRU8iIGNsYXNzPSJsaW5rIj48cGF0aCBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjEuNTYyNTsiIGlkPSJDRU8tdG8tRmluYW5jZVZQIiBmaWxsPSJub25lIiBkPSJNMTIwNC4xNzE5LDY4LjQyMTkgQzExNjkuNTE1Niw5OC43NSAxMTM0LjE2NDgsMTI5LjY4MTEgMTA5MC44Njc5LDE2Ny41NzE3Ii8+PHBvbHlnb24gc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDoxLjU2MjU7IiBwb2ludHM9IjEwNjkuNzAzMSwxODYuMDkzNywxMDk3LjA0MTksMTc0LjYyNjYsMTA4NC42OTM5LDE2MC41MTY4LDEwNjkuNzAzMSwxODYuMDkzNyIgZmlsbD0ibm9uZSIvPjwvZz48ZyBpZD0ibGlua19DRU9fTGVnYWxWUCIgZGF0YS11aWQ9ImxuazI2IiBkYXRhLXNvdXJjZS1saW5lPSI0NCIgZGF0YS1lbnRpdHktMj0iTGVnYWxWUCIgZGF0YS1lbnRpdHktMT0iQ0VPIiBjbGFzcz0ibGluayI+PHBhdGggc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDoxLjU2MjU7IiBpZD0iQ0VPLXRvLUxlZ2FsVlAiIGZpbGw9Im5vbmUiIGQ9Ik0xMjM1LjY3MTksNjguNDIxOSBDMTIzNS42NzE5LDk1LjQ1MzEgMTIzNS42NzE5LDEwOS41NDY5IDEyMzUuNjcxOSwxNDUuMjM0NCIvPjxwb2x5Z29uIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MS41NjI1OyIgcG9pbnRzPSIxMjM1LjY3MTksMTczLjM1OTQsMTI0NS4wNDY5LDE0NS4yMzQ0LDEyMjYuMjk2OSwxNDUuMjM0NCwxMjM1LjY3MTksMTczLjM1OTQiIGZpbGw9Im5vbmUiLz48L2c+PGcgaWQ9ImxpbmtfQ0VPX0xvZ2lzdGljc1ZQIiBkYXRhLXVpZD0ibG5rMjciIGRhdGEtc291cmNlLWxpbmU9IjQ1IiBkYXRhLWVudGl0eS0yPSJMb2dpc3RpY3NWUCIgZGF0YS1lbnRpdHktMT0iQ0VPIiBjbGFzcz0ibGluayI+PHBhdGggc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDoxLjU2MjU7IiBpZD0iQ0VPLXRvLUxvZ2lzdGljc1ZQIiBmaWxsPSJub25lIiBkPSJNMTI2Ny4xNzE5LDY4LjQyMTkgQzEyOTUuMjUsOTMgMTMxNi41Mzc0LDExMS42MTk2IDEzNTQuNjc4MSwxNDQuOTk0NiIvPjxwb2x5Z29uIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MS41NjI1OyIgcG9pbnRzPSIxMzc1Ljg0MzgsMTYzLjUxNTYsMTM2MC44NTE4LDEzNy45MzkzLDEzNDguNTA0NCwxNTIuMDQ5OCwxMzc1Ljg0MzgsMTYzLjUxNTYiIGZpbGw9Im5vbmUiLz48L2c+PGcgaWQ9ImxpbmtfQ0VPX0lUVlAiIGRhdGEtdWlkPSJsbmsyOCIgZGF0YS1zb3VyY2UtbGluZT0iNDYiIGRhdGEtZW50aXR5LTI9IklUVlAiIGRhdGEtZW50aXR5LTE9IkNFTyIgY2xhc3M9ImxpbmsiPjxwYXRoIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MS41NjI1OyIgaWQ9IkNFTy10by1JVFZQIiBmaWxsPSJub25lIiBkPSJNMTMxNy41NzgxLDY4LjQyMTkgQzE0MjEuNDIxOSwxMDMuMzc1IDE1NzQuMTI1MywxNTQuNzc5MSAxNjg5LjM1OTcsMTkzLjU2MDQiLz48cG9seWdvbiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjEuNTYyNTsiIHBvaW50cz0iMTcxNi4wMTU2LDIwMi41MzEzLDE2OTIuMzUsMTg0LjY3NTEsMTY4Ni4zNjk0LDIwMi40NDU3LDE3MTYuMDE1NiwyMDIuNTMxMyIgZmlsbD0ibm9uZSIvPjwvZz48ZyBpZD0ibGlua19DbGllbnRWUF9DbGFpbXNIZWFkIiBkYXRhLXVpZD0ibG5rMjkiIGRhdGEtc291cmNlLWxpbmU9IjQ4IiBkYXRhLWVudGl0eS0yPSJDbGFpbXNIZWFkIiBkYXRhLWVudGl0eS0xPSJDbGllbnRWUCIgY2xhc3M9ImxpbmsiPjxwYXRoIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MS41NjI1OyIgaWQ9IkNsaWVudFZQLXRvLUNsYWltc0hlYWQiIGZpbGw9Im5vbmUiIGQ9Ik0zNjEuMzc1LDMwNy43OTY5IEMzMTMuMjY1NiwzNDAuNTkzNyAyNzguMzkyOCwzNjQuMzU3NiAyMzAuMjUyMiwzOTcuMTg1OCIvPjxwb2x5Z29uIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MS41NjI1OyIgcG9pbnRzPSIyMDcuMDE1Niw0MTMuMDMxMiwyMzUuNTM0LDQwNC45MzEzLDIyNC45NzAzLDM4OS40NDAzLDIwNy4wMTU2LDQxMy4wMzEyIiBmaWxsPSJub25lIi8+PC9nPjxnIGlkPSJsaW5rX0NsaWVudFZQX1F1YWxpdHlIZWFkIiBkYXRhLXVpZD0ibG5rMzAiIGRhdGEtc291cmNlLWxpbmU9IjQ5IiBkYXRhLWVudGl0eS0yPSJRdWFsaXR5SGVhZCIgZGF0YS1lbnRpdHktMT0iQ2xpZW50VlAiIGNsYXNzPSJsaW5rIj48cGF0aCBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjEuNTYyNTsiIGlkPSJDbGllbnRWUC10by1RdWFsaXR5SGVhZCIgZmlsbD0ibm9uZSIgZD0iTTQyNi4wNzgxLDMwNy40ODQ0IEM0MTAuMTg3NSwzNDAuNDIxOSA0MDMuMTc0NCwzNTQuOTY1OSAzODcuMjY4MSwzODcuOTM0NyIvPjxwb2x5Z29uIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MS41NjI1OyIgcG9pbnRzPSIzNzUuMDQ2OSw0MTMuMjY1NiwzOTUuNzExOCwzOTIuMDA4NSwzNzguODI0NSwzODMuODYwOSwzNzUuMDQ2OSw0MTMuMjY1NiIgZmlsbD0ibm9uZSIvPjwvZz48ZyBpZD0ibGlua19DbGllbnRWUF9DdXN0b21lclNlcnZpY2VIZWFkIiBkYXRhLXVpZD0ibG5rMzEiIGRhdGEtc291cmNlLWxpbmU9IjUwIiBkYXRhLWVudGl0eS0yPSJDdXN0b21lclNlcnZpY2VIZWFkIiBkYXRhLWVudGl0eS0xPSJDbGllbnRWUCIgY2xhc3M9ImxpbmsiPjxwYXRoIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MS41NjI1OyIgaWQ9IkNsaWVudFZQLXRvLUN1c3RvbWVyU2VydmljZUhlYWQiIGZpbGw9Im5vbmUiIGQ9Ik00ODkuMDE1NiwzMDcuNDg0NCBDNTA0LjkwNjMsMzQwLjQyMTkgNTExLjkxOTQsMzU0Ljk2NTkgNTI3LjgyNTYsMzg3LjkzNDciLz48cG9seWdvbiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjEuNTYyNTsiIHBvaW50cz0iNTQwLjA0NjksNDEzLjI2NTYsNTM2LjI2OTIsMzgzLjg2MDksNTE5LjM4MiwzOTIuMDA4NSw1NDAuMDQ2OSw0MTMuMjY1NiIgZmlsbD0ibm9uZSIvPjwvZz48ZyBpZD0ibGlua19GaW5hbmNlVlBfRmluYW5jZUhlYWQiIGRhdGEtdWlkPSJsbmszMiIgZGF0YS1zb3VyY2UtbGluZT0iNTIiIGRhdGEtZW50aXR5LTI9IkZpbmFuY2VIZWFkIiBkYXRhLWVudGl0eS0xPSJGaW5hbmNlVlAiIGNsYXNzPSJsaW5rIj48cGF0aCBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjEuNTYyNTsiIGlkPSJGaW5hbmNlVlAtdG8tRmluYW5jZUhlYWQiIGZpbGw9Im5vbmUiIGQ9Ik05NjQuMzc1LDI5NC43MTg4IEM5MzEuMDc4MSwzMzMuNzY1NiA5MDQuMDkwOSwzNjUuNDU3MSA4NzAuNzQ3MSw0MDQuNTY2NCIvPjxwb2x5Z29uIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MS41NjI1OyIgcG9pbnRzPSI4NTIuNSw0MjUuOTY4Nyw4NzcuODgxMiw0MTAuNjQ4OCw4NjMuNjEzLDM5OC40ODQxLDg1Mi41LDQyNS45Njg3IiBmaWxsPSJub25lIi8+PC9nPjxnIGlkPSJsaW5rX0ZpbmFuY2VWUF9DaGllZkFjY291bnRhbnQiIGRhdGEtdWlkPSJsbmszMyIgZGF0YS1zb3VyY2UtbGluZT0iNTMiIGRhdGEtZW50aXR5LTI9IkNoaWVmQWNjb3VudGFudCIgZGF0YS1lbnRpdHktMT0iRmluYW5jZVZQIiBjbGFzcz0ibGluayI+PHBhdGggc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDoxLjU2MjU7IiBpZD0iRmluYW5jZVZQLXRvLUNoaWVmQWNjb3VudGFudCIgZmlsbD0ibm9uZSIgZD0iTTEwMTEuMTg3NSwyOTQuNzE4OCBDMTAxMi45MDYzLDMzOC4yNjU2IDEwMTQuMjA4NSwzNzEuMTQ3MyAxMDE1Ljc4NjYsNDEwLjc1NjciLz48cG9seWdvbiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjEuNTYyNTsiIHBvaW50cz0iMTAxNi45MDYzLDQzOC44NTk0LDEwMjUuMTU0MSw0MTAuMzgzNCwxMDA2LjQxOSw0MTEuMTI5OSwxMDE2LjkwNjMsNDM4Ljg1OTQiIGZpbGw9Im5vbmUiLz48L2c+PGcgaWQ9ImxpbmtfTGVnYWxWUF9MZWdhbEhlYWQiIGRhdGEtdWlkPSJsbmszNCIgZGF0YS1zb3VyY2UtbGluZT0iNTUiIGRhdGEtZW50aXR5LTI9IkxlZ2FsSGVhZCIgZGF0YS1lbnRpdHktMT0iTGVnYWxWUCIgY2xhc3M9ImxpbmsiPjxwYXRoIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MS41NjI1OyIgaWQ9IkxlZ2FsVlAtdG8tTGVnYWxIZWFkIiBmaWxsPSJub25lIiBkPSJNMTIzNi4wOTM4LDMwNy40ODQ0IEMxMjM2LjM0MzgsMzQ0LjkzNzUgMTIzNi40NjgyLDM2My4yMTk0IDEyMzYuNzAyNSwzOTguMjY2MyIvPjxwb2x5Z29uIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MS41NjI1OyIgcG9pbnRzPSIxMjM2Ljg5MDYsNDI2LjM5MDYsMTI0Ni4wNzczLDM5OC4yMDM2LDEyMjcuMzI3OCwzOTguMzI4OSwxMjM2Ljg5MDYsNDI2LjM5MDYiIGZpbGw9Im5vbmUiLz48L2c+PGcgaWQ9ImxpbmtfTG9naXN0aWNzVlBfV2FyZWhvdXNlSGVhZCIgZGF0YS11aWQ9ImxuazM1IiBkYXRhLXNvdXJjZS1saW5lPSI1NyIgZGF0YS1lbnRpdHktMj0iV2FyZWhvdXNlSGVhZCIgZGF0YS1lbnRpdHktMT0iTG9naXN0aWNzVlAiIGNsYXNzPSJsaW5rIj48cGF0aCBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjEuNTYyNTsiIGlkPSJMb2dpc3RpY3NWUC10by1XYXJlaG91c2VIZWFkIiBmaWxsPSJub25lIiBkPSJNMTQ2Mi4yMzQ0LDMyMC4zMjgxIEMxNDYyLjIzNDQsMzU1LjAzMTIgMTQ2Mi4yMzQ0LDM2Ni44NTk0IDE0NjIuMjM0NCwzOTcuOTM3NSIvPjxwb2x5Z29uIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MS41NjI1OyIgcG9pbnRzPSIxNDYyLjIzNDQsNDI2LjA2MjUsMTQ3MS42MDk0LDM5Ny45Mzc1LDE0NTIuODU5NCwzOTcuOTM3NSwxNDYyLjIzNDQsNDI2LjA2MjUiIGZpbGw9Im5vbmUiLz48L2c+PGcgaWQ9ImxpbmtfSVRWUF9EZXZUZWFtIiBkYXRhLXVpZD0ibG5rMzYiIGRhdGEtc291cmNlLWxpbmU9IjU5IiBkYXRhLWVudGl0eS0yPSJEZXZUZWFtIiBkYXRhLWVudGl0eS0xPSJJVFZQIiBjbGFzcz0ibGluayI+PHBhdGggc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDoxLjU2MjU7IiBpZD0iSVRWUC10by1EZXZUZWFtIiBmaWxsPSJub25lIiBkPSJNMTgwMC44NzUsMjgyLjM1OTQgQzE3NzQuOTM3NSwzMjUuOTY4OCAxNzQ4LjEwNzUsMzcxLjA3NSAxNzIyLjIxNjksNDE0LjYyMTkiLz48cG9seWdvbiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjEuNTYyNTsiIHBvaW50cz0iMTcwNy44NDM4LDQzOC43OTY5LDE3MzAuMjc1Miw0MTkuNDEzLDE3MTQuMTU4Niw0MDkuODMwOSwxNzA3Ljg0MzgsNDM4Ljc5NjkiIGZpbGw9Im5vbmUiLz48L2c+PGcgaWQ9ImxpbmtfSVRWUF9JVEFkbWlucyIgZGF0YS11aWQ9ImxuazM3IiBkYXRhLXNvdXJjZS1saW5lPSI2MCIgZGF0YS1lbnRpdHktMj0iSVRBZG1pbnMiIGRhdGEtZW50aXR5LTE9IklUVlAiIGNsYXNzPSJsaW5rIj48cGF0aCBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjEuNTYyNTsiIGlkPSJJVFZQLXRvLUlUQWRtaW5zIiBmaWxsPSJub25lIiBkPSJNMTg0NC4zNDM4LDI4Mi4zNTk0IEMxODY1LjY3MTksMzI1Ljk2ODggMTg4Ny4xOTA3LDM2OS45ODQ2IDE5MDguNDg3Niw0MTMuNTMxNSIvPjxwb2x5Z29uIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MS41NjI1OyIgcG9pbnRzPSIxOTIwLjg0MzcsNDM4Ljc5NjksMTkxNi45MDkzLDQwOS40MTI4LDE5MDAuMDY1OCw0MTcuNjUwMiwxOTIwLjg0MzcsNDM4Ljc5NjkiIGZpbGw9Im5vbmUiLz48L2c+PGcgaWQ9ImxpbmtfSVRWUF9TdXBwb3J0VGVhbSIgZGF0YS11aWQ9ImxuazM4IiBkYXRhLXNvdXJjZS1saW5lPSI2MSIgZGF0YS1lbnRpdHktMj0iU3VwcG9ydFRlYW0iIGRhdGEtZW50aXR5LTE9IklUVlAiIGNsYXNzPSJsaW5rIj48cGF0aCBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjEuNTYyNTsiIGlkPSJJVFZQLXRvLVN1cHBvcnRUZWFtIiBmaWxsPSJub25lIiBkPSJNMTg4Ny4yODEyLDI4Mi4zNTk0IEMxOTQ4LjkyMTksMzIxLjg5MDYgMjAxOS43NzcyLDM2Ny4zMTg4IDIwODcuNDk2LDQxMC43NDA3Ii8+PHBvbHlnb24gc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDoxLjU2MjU7IiBwb2ludHM9IjIxMTEuMTcxOSw0MjUuOTIxOSwyMDkyLjU1NjQsNDAyLjg0ODcsMjA4Mi40MzU2LDQxOC42MzI2LDIxMTEuMTcxOSw0MjUuOTIxOSIgZmlsbD0ibm9uZSIvPjwvZz48ZyBpZD0ibGlua19DbGFpbXNIZWFkX0NsYWltc1NwZWNpYWxpc3RzIiBkYXRhLXVpZD0ibG5rMzkiIGRhdGEtc291cmNlLWxpbmU9IjYzIiBkYXRhLWVudGl0eS0yPSJDbGFpbXNTcGVjaWFsaXN0cyIgZGF0YS1lbnRpdHktMT0iQ2xhaW1zSGVhZCIgY2xhc3M9ImxpbmsiPjxwYXRoIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MS41NjI1OyIgaWQ9IkNsYWltc0hlYWQtdG8tQ2xhaW1zU3BlY2lhbGlzdHMiIGZpbGw9Im5vbmUiIGQ9Ik0xMTAuNjcxOSw1NDcuMDc4MSBDMTEwLjY3MTksNTc1Ljc4MTMgMTEwLjY3MTksNTgxLjYwOTQgMTEwLjY3MTksNjExLjY4NzUiLz48cG9seWdvbiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjEuNTYyNTsiIHBvaW50cz0iMTEwLjY3MTksNjM5LjgxMjUsMTIwLjA0NjksNjExLjY4NzUsMTAxLjI5NjksNjExLjY4NzUsMTEwLjY3MTksNjM5LjgxMjUiIGZpbGw9Im5vbmUiLz48L2c+PGcgaWQ9ImxpbmtfUXVhbGl0eUhlYWRfUXVhbGl0eUV4cGVydHMiIGRhdGEtdWlkPSJsbms0MCIgZGF0YS1zb3VyY2UtbGluZT0iNjQiIGRhdGEtZW50aXR5LTI9IlF1YWxpdHlFeHBlcnRzIiBkYXRhLWVudGl0eS0xPSJRdWFsaXR5SGVhZCIgY2xhc3M9ImxpbmsiPjxwYXRoIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MS41NjI1OyIgaWQ9IlF1YWxpdHlIZWFkLXRvLVF1YWxpdHlFeHBlcnRzIiBmaWxsPSJub25lIiBkPSJNMzQzLjQ4NDQsNTQ3LjA3ODEgQzM0My40ODQ0LDU3NS43ODEzIDM0My40ODQ0LDU4MS42MDk0IDM0My40ODQ0LDYxMS42ODc1Ii8+PHBvbHlnb24gc3R5bGU9InN0cm9rZTojMTgxODE4O3N0cm9rZS13aWR0aDoxLjU2MjU7IiBwb2ludHM9IjM0My40ODQ0LDYzOS44MTI1LDM1Mi44NTk0LDYxMS42ODc1LDMzNC4xMDk0LDYxMS42ODc1LDM0My40ODQ0LDYzOS44MTI1IiBmaWxsPSJub25lIi8+PC9nPjxnIGlkPSJsaW5rX0N1c3RvbWVyU2VydmljZUhlYWRfQ3VzdG9tZXJNYW5hZ2VycyIgZGF0YS11aWQ9ImxuazQxIiBkYXRhLXNvdXJjZS1saW5lPSI2NSIgZGF0YS1lbnRpdHktMj0iQ3VzdG9tZXJNYW5hZ2VycyIgZGF0YS1lbnRpdHktMT0iQ3VzdG9tZXJTZXJ2aWNlSGVhZCIgY2xhc3M9ImxpbmsiPjxwYXRoIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MS41NjI1OyIgaWQ9IkN1c3RvbWVyU2VydmljZUhlYWQtdG8tQ3VzdG9tZXJNYW5hZ2VycyIgZmlsbD0ibm9uZSIgZD0iTTU3MS42MDk0LDU0Ny4wNzgxIEM1NzEuNjA5NCw1NzUuNzgxMyA1NzEuNjA5NCw1ODEuNjA5NCA1NzEuNjA5NCw2MTEuNjg3NSIvPjxwb2x5Z29uIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MS41NjI1OyIgcG9pbnRzPSI1NzEuNjA5NCw2MzkuODEyNSw1ODAuOTg0NCw2MTEuNjg3NSw1NjIuMjM0NCw2MTEuNjg3NSw1NzEuNjA5NCw2MzkuODEyNSIgZmlsbD0ibm9uZSIvPjwvZz48ZyBpZD0ibGlua19GaW5hbmNlSGVhZF9SZWZ1bmRBY2NvdW50YW50IiBkYXRhLXVpZD0ibG5rNDIiIGRhdGEtc291cmNlLWxpbmU9IjY3IiBkYXRhLWVudGl0eS0yPSJSZWZ1bmRBY2NvdW50YW50IiBkYXRhLWVudGl0eS0xPSJGaW5hbmNlSGVhZCIgY2xhc3M9ImxpbmsiPjxwYXRoIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MS41NjI1OyIgaWQ9IkZpbmFuY2VIZWFkLXRvLVJlZnVuZEFjY291bnRhbnQiIGZpbGw9Im5vbmUiIGQ9Ik04MDcuNTQ2OSw1MzQuMzEyNSBDODA3LjU0NjksNTczLjM1OTQgODA3LjU0NjksNTk4LjMxMjUgODA3LjU0NjksNjM3LjQyMTkiLz48cG9seWdvbiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjEuNTYyNTsiIHBvaW50cz0iODA3LjU0NjksNjY1LjU0NjksODE2LjkyMTksNjM3LjQyMTksNzk4LjE3MTksNjM3LjQyMTksODA3LjU0NjksNjY1LjU0NjkiIGZpbGw9Im5vbmUiLz48L2c+PGcgaWQ9ImxpbmtfTGVnYWxIZWFkX0xlZ2FsU3BlY2lhbGlzdCIgZGF0YS11aWQ9ImxuazQzIiBkYXRhLXNvdXJjZS1saW5lPSI2OCIgZGF0YS1lbnRpdHktMj0iTGVnYWxTcGVjaWFsaXN0IiBkYXRhLWVudGl0eS0xPSJMZWdhbEhlYWQiIGNsYXNzPSJsaW5rIj48cGF0aCBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjEuNTYyNTsiIGlkPSJMZWdhbEhlYWQtdG8tTGVnYWxTcGVjaWFsaXN0IiBmaWxsPSJub25lIiBkPSJNMTIzNy4yMzQ0LDUzNC4zMTI1IEMxMjM3LjIzNDQsNTczLjM1OTQgMTIzNy4yMzQ0LDU5OC4zMTI1IDEyMzcuMjM0NCw2MzcuNDIxOSIvPjxwb2x5Z29uIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MS41NjI1OyIgcG9pbnRzPSIxMjM3LjIzNDQsNjY1LjU0NjksMTI0Ni42MDk0LDYzNy40MjE5LDEyMjcuODU5NCw2MzcuNDIxOSwxMjM3LjIzNDQsNjY1LjU0NjkiIGZpbGw9Im5vbmUiLz48L2c+PGcgaWQ9ImxpbmtfV2FyZWhvdXNlSGVhZF9XYXJlaG91c2VLZWVwZXIiIGRhdGEtdWlkPSJsbms0NCIgZGF0YS1zb3VyY2UtbGluZT0iNjkiIGRhdGEtZW50aXR5LTI9IldhcmVob3VzZUtlZXBlciIgZGF0YS1lbnRpdHktMT0iV2FyZWhvdXNlSGVhZCIgY2xhc3M9ImxpbmsiPjxwYXRoIHN0eWxlPSJzdHJva2U6IzE4MTgxODtzdHJva2Utd2lkdGg6MS41NjI1OyIgaWQ9IldhcmVob3VzZUhlYWQtdG8tV2FyZWhvdXNlS2VlcGVyIiBmaWxsPSJub25lIiBkPSJNMTQ2Mi4yMzQ0LDUzNC4zMTI1IEMxNDYyLjIzNDQsNTgyLjc1IDE0NjIuMjM0NCw2MjQuNjU2MyAxNDYyLjIzNDQsNjYyLjgyODEiLz48cG9seWdvbiBzdHlsZT0ic3Ryb2tlOiMxODE4MTg7c3Ryb2tlLXdpZHRoOjEuNTYyNTsiIHBvaW50cz0iMTQ2Mi4yMzQ0LDY5MC45NTMxLDE0NzEuNjA5NCw2NjIuODI4MSwxNDUyLjg1OTQsNjYyLjgyODEsMTQ2Mi4yMzQ0LDY5MC45NTMxIiBmaWxsPSJub25lIi8+PC9nPjwvZz48L3N2Zz4=;" vertex="1" parent="1">
+          <mxGeometry x="190" y="890" width="1200" height="417" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
