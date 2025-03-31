@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3" pages="4">
   <diagram name="Описание процесса" id="DKnrJ2_d3M1DMu6XknEb">
     <mxGraphModel dx="1223" dy="1876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -470,7 +470,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="imVBUzfYW4tmL6kfh8Tu" name="Структурные элементы">
-    <mxGraphModel dx="1529" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -696,7 +696,7 @@
             <mxRectangle width="129" height="119" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CCX97ZM5BnOViX52MLEG-13" value="Менеджер по работе с клиентами" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=16;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-9" vertex="1">
+        <mxCell id="CCX97ZM5BnOViX52MLEG-13" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; text-align: center;&quot; data-end=&quot;204&quot; data-start=&quot;169&quot;&gt;Специалисты по приёму претензий&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=16;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-9" vertex="1">
           <mxGeometry x="384" width="128" height="119" as="geometry">
             <mxRectangle width="128" height="119" as="alternateBounds" />
           </mxGeometry>
@@ -729,7 +729,7 @@
             <mxRectangle width="129" height="113" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CCX97ZM5BnOViX52MLEG-20" value="Продавец, менеджер" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-16" vertex="1">
+        <mxCell id="CCX97ZM5BnOViX52MLEG-20" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; text-align: center;&quot; data-end=&quot;429&quot; data-start=&quot;394&quot;&gt;Менеджеры по возвратам и обмену&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-16" vertex="1">
           <mxGeometry x="384" width="128" height="113" as="geometry">
             <mxRectangle width="128" height="113" as="alternateBounds" />
           </mxGeometry>
@@ -762,7 +762,7 @@
             <mxRectangle width="129" height="123" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CCX97ZM5BnOViX52MLEG-27" value="Менеджер, юрист" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-23" vertex="1">
+        <mxCell id="CCX97ZM5BnOViX52MLEG-27" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; text-align: center;&quot; data-end=&quot;549&quot; data-start=&quot;518&quot;&gt;Юрист по вопросам претензий&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-23" vertex="1">
           <mxGeometry x="384" width="128" height="123" as="geometry">
             <mxRectangle width="128" height="123" as="alternateBounds" />
           </mxGeometry>
@@ -795,7 +795,7 @@
             <mxRectangle width="129" height="113" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CCX97ZM5BnOViX52MLEG-34" value="Эксперт, продавец" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-30" vertex="1">
+        <mxCell id="CCX97ZM5BnOViX52MLEG-34" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; text-align: center;&quot; data-end=&quot;311&quot; data-start=&quot;271&quot;&gt;Эксперты по проверке качества товара&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=default;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;" parent="CCX97ZM5BnOViX52MLEG-30" vertex="1">
           <mxGeometry x="384" width="128" height="113" as="geometry">
             <mxRectangle width="128" height="113" as="alternateBounds" />
           </mxGeometry>
@@ -828,7 +828,7 @@
             <mxRectangle width="129" height="113" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CCX97ZM5BnOViX52MLEG-110" value="Руководство, юрист" style="connectable=0;recursiveResize=0;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;strokeColor=light-dark(#c5d88c, #ededed);" parent="CCX97ZM5BnOViX52MLEG-106" vertex="1">
+        <mxCell id="CCX97ZM5BnOViX52MLEG-110" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; text-align: center;&quot; data-end=&quot;429&quot; data-start=&quot;394&quot;&gt;Менеджеры по возвратам и обмену,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 12px; text-align: center;&quot; data-end=&quot;549&quot; data-start=&quot;518&quot;&gt;Юрист по вопросам претензий&lt;/span&gt;" style="connectable=0;recursiveResize=0;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;strokeColor=light-dark(#c5d88c, #ededed);" parent="CCX97ZM5BnOViX52MLEG-106" vertex="1">
           <mxGeometry x="384" width="128" height="113" as="geometry">
             <mxRectangle width="128" height="113" as="alternateBounds" />
           </mxGeometry>
@@ -861,7 +861,7 @@
             <mxRectangle width="129" height="113" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CCX97ZM5BnOViX52MLEG-124" value="Менеджер, бухгалтер, продавец" style="connectable=0;recursiveResize=0;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;strokeColor=#82b366;fillColor=light-dark(#ebf2d6, #1f2f1e);" parent="CCX97ZM5BnOViX52MLEG-120" vertex="1">
+        <mxCell id="CCX97ZM5BnOViX52MLEG-124" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; text-align: center;&quot;&gt;Кладовщик,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 12px; text-align: center;&quot;&gt;Бухгалтер по операциям возвратов,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; font-size: 12px; text-align: center;&quot; data-end=&quot;429&quot; data-start=&quot;394&quot;&gt;Менеджеры по возвратам и обмену&lt;/span&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=14;whiteSpace=wrap;align=left;spacingRight=0;spacingLeft=6;strokeColor=#82b366;fillColor=light-dark(#ebf2d6, #1f2f1e);" parent="CCX97ZM5BnOViX52MLEG-120" vertex="1">
           <mxGeometry x="384" width="128" height="113" as="geometry">
             <mxRectangle width="128" height="113" as="alternateBounds" />
           </mxGeometry>
