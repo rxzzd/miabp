@@ -92,7 +92,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Wbu8IEe6tuNQ7Wifa6Bx" name="A0">
-    <mxGraphModel dx="3276" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="3436" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -884,7 +884,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fC6HV1KfkM427stahfrl" name="Node tree">
-    <mxGraphModel dx="1064" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="945" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1040,7 +1040,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FCtZYkUYQeZ2buBhZeiG-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2030" y="160" width="140" height="70" as="geometry" />
+          <mxGeometry x="2030" y="250" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FCtZYkUYQeZ2buBhZeiG-2" value="Исполнение решения (Возврат средств/замена товара)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FCtZYkUYQeZ2buBhZeiG-1">
           <mxGeometry width="140" height="70" as="geometry" />
@@ -1049,7 +1049,7 @@
           <mxGeometry x="113.33333333333333" y="53.33333333333333" width="26.666666666666664" height="16.666666666666664" as="geometry" />
         </mxCell>
         <mxCell id="FCtZYkUYQeZ2buBhZeiG-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2220" y="160" width="140" height="70" as="geometry" />
+          <mxGeometry x="2220" y="250" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FCtZYkUYQeZ2buBhZeiG-5" value="Исполнение решения (Отказ в возврате)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FCtZYkUYQeZ2buBhZeiG-4">
           <mxGeometry width="140" height="70" as="geometry" />
@@ -1061,20 +1061,24 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1790" y="120" />
-              <mxPoint x="2100" y="120" />
+              <mxPoint x="2190" y="120" />
+              <mxPoint x="2190" y="200" />
+              <mxPoint x="2100" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="puDCPbu0COoUoDNCOWix-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OqlOGC7YxUg7ckR8CIjE-2" target="FCtZYkUYQeZ2buBhZeiG-5">
+        <mxCell id="puDCPbu0COoUoDNCOWix-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OqlOGC7YxUg7ckR8CIjE-2" target="FCtZYkUYQeZ2buBhZeiG-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1790" y="120" />
-              <mxPoint x="2290" y="120" />
+              <mxPoint x="2190" y="120" />
+              <mxPoint x="2190" y="200" />
+              <mxPoint x="2290" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="puDCPbu0COoUoDNCOWix-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2030" y="280" width="140" height="70" as="geometry" />
+          <mxGeometry x="2030" y="370" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="puDCPbu0COoUoDNCOWix-4" value="Информирование покупателя о принятом решении" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="puDCPbu0COoUoDNCOWix-3">
           <mxGeometry width="140" height="70" as="geometry" />
@@ -1083,7 +1087,7 @@
           <mxGeometry x="113.33333333333333" y="53.33333333333333" width="26.666666666666664" height="16.666666666666664" as="geometry" />
         </mxCell>
         <mxCell id="puDCPbu0COoUoDNCOWix-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2220" y="280" width="140" height="70" as="geometry" />
+          <mxGeometry x="2220" y="370" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="puDCPbu0COoUoDNCOWix-7" value="Информирование покупателя о принятом решении" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="puDCPbu0COoUoDNCOWix-6">
           <mxGeometry width="140" height="70" as="geometry" />
@@ -1093,32 +1097,32 @@
         </mxCell>
         <mxCell id="puDCPbu0COoUoDNCOWix-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="puDCPbu0COoUoDNCOWix-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2100" y="230" as="sourcePoint" />
+            <mxPoint x="2100" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="puDCPbu0COoUoDNCOWix-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="puDCPbu0COoUoDNCOWix-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2100" y="390" as="targetPoint" />
+            <mxPoint x="2100" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="puDCPbu0COoUoDNCOWix-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="puDCPbu0COoUoDNCOWix-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2320" y="230" as="sourcePoint" />
+            <mxPoint x="2320" y="320" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="2290" y="230" />
+              <mxPoint x="2290" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="puDCPbu0COoUoDNCOWix-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="puDCPbu0COoUoDNCOWix-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2290" y="390" as="targetPoint" />
+            <mxPoint x="2290" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2290" y="390" />
+              <mxPoint x="2290" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="puDCPbu0COoUoDNCOWix-13" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2030" y="390" width="140" height="70" as="geometry" />
+          <mxGeometry x="2030" y="480" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="puDCPbu0COoUoDNCOWix-14" value="Подготовка к возврату / обмену" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="puDCPbu0COoUoDNCOWix-13">
           <mxGeometry width="140" height="70" as="geometry" />
@@ -1127,7 +1131,7 @@
           <mxGeometry x="113.33333333333333" y="53.33333333333333" width="26.666666666666664" height="16.666666666666664" as="geometry" />
         </mxCell>
         <mxCell id="puDCPbu0COoUoDNCOWix-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2030" y="500" width="140" height="70" as="geometry" />
+          <mxGeometry x="2030" y="590" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="puDCPbu0COoUoDNCOWix-17" value="Финансовые операции по возврату" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="puDCPbu0COoUoDNCOWix-16">
           <mxGeometry width="140" height="70" as="geometry" />
@@ -1139,7 +1143,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="puDCPbu0COoUoDNCOWix-20" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2030" y="610" width="140" height="70" as="geometry" />
+          <mxGeometry x="2030" y="700" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="puDCPbu0COoUoDNCOWix-21" value="Возврат средств или замена товара" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="puDCPbu0COoUoDNCOWix-20">
           <mxGeometry width="140" height="70" as="geometry" />
@@ -1151,7 +1155,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="puDCPbu0COoUoDNCOWix-24" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2220" y="390" width="140" height="70" as="geometry" />
+          <mxGeometry x="2220" y="480" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="puDCPbu0COoUoDNCOWix-25" value="Формирование официального письма покупателю" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="puDCPbu0COoUoDNCOWix-24">
           <mxGeometry width="140" height="70" as="geometry" />
@@ -1160,7 +1164,7 @@
           <mxGeometry x="113.33333333333333" y="53.33333333333333" width="26.666666666666664" height="16.666666666666664" as="geometry" />
         </mxCell>
         <mxCell id="puDCPbu0COoUoDNCOWix-27" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2220" y="500" width="140" height="70" as="geometry" />
+          <mxGeometry x="2220" y="590" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="puDCPbu0COoUoDNCOWix-28" value="Передача отказа покупателю с объяснением причин." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="puDCPbu0COoUoDNCOWix-27">
           <mxGeometry width="140" height="70" as="geometry" />
