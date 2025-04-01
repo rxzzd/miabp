@@ -549,7 +549,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NzRq3i6zt_3YWGYCYGlb" name="A2">
-    <mxGraphModel dx="3595" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="3320" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -671,7 +671,7 @@
         <mxCell id="9R9k6NsrSFDcwqAopwMS-2" value="Вынесение предварительного решения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9R9k6NsrSFDcwqAopwMS-1">
           <mxGeometry width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9R9k6NsrSFDcwqAopwMS-3" value="A21" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9R9k6NsrSFDcwqAopwMS-1">
+        <mxCell id="9R9k6NsrSFDcwqAopwMS-3" value="A22" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9R9k6NsrSFDcwqAopwMS-1">
           <mxGeometry x="113.33333333333334" y="53.33333333333333" width="26.666666666666668" height="16.666666666666668" as="geometry" />
         </mxCell>
         <mxCell id="9R9k6NsrSFDcwqAopwMS-5" value="&lt;span data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(0, 0, 0)&amp;quot;,&amp;quot;background-color&amp;quot;:&amp;quot;rgb(251, 251, 251)&amp;quot;}&quot; style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; text-align: left; background-color: light-dark(rgb(251, 251, 251), rgb(21, 21, 21)); float: none; display: inline !important;&quot;&gt;Зарегистрированное заявление&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -697,7 +697,7 @@
         <mxCell id="9amqYDIPMHeRcwm2KY-n-2" value="Назначение экспертизы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9amqYDIPMHeRcwm2KY-n-1">
           <mxGeometry width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9amqYDIPMHeRcwm2KY-n-3" value="A21" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9amqYDIPMHeRcwm2KY-n-1">
+        <mxCell id="9amqYDIPMHeRcwm2KY-n-3" value="A23" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9amqYDIPMHeRcwm2KY-n-1">
           <mxGeometry x="113.33333333333334" y="53.33333333333333" width="26.666666666666668" height="16.666666666666668" as="geometry" />
         </mxCell>
         <mxCell id="9amqYDIPMHeRcwm2KY-n-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9R9k6NsrSFDcwqAopwMS-2" target="9amqYDIPMHeRcwm2KY-n-2">
