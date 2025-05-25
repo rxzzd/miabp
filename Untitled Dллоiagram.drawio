@@ -1,9 +1,151 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0" version="27.0.9">
   <diagram name="Page-1" id="6nbWZ9hd2G1AP9JeHBpr">
-    <mxGraphModel>
+    <mxGraphModel dx="2476" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HJOpEBRodyzElY_gxKN2-1" value="ИС: Система обработки претензий" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=180;height=50;" vertex="1" parent="1">
+          <mxGeometry x="165" y="20" width="715" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HJOpEBRodyzElY_gxKN2-2" target="HJOpEBRodyzElY_gxKN2-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-27" value="товар,&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;причина,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;div&gt;ответственное лицо&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HJOpEBRodyzElY_gxKN2-26">
+          <mxGeometry x="0.5845" y="-1" relative="1" as="geometry">
+            <mxPoint x="-4" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HJOpEBRodyzElY_gxKN2-2" target="HJOpEBRodyzElY_gxKN2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-31" value="заключение&amp;nbsp;&lt;div&gt;экспертизы&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HJOpEBRodyzElY_gxKN2-30">
+          <mxGeometry x="0.5401" y="-1" relative="1" as="geometry">
+            <mxPoint x="41" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HJOpEBRodyzElY_gxKN2-2" target="HJOpEBRodyzElY_gxKN2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-42" value="данные клиента" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HJOpEBRodyzElY_gxKN2-41">
+          <mxGeometry x="0.6248" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-2" value="Менеджер&lt;div&gt;по возвратам&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HJOpEBRodyzElY_gxKN2-5" target="HJOpEBRodyzElY_gxKN2-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-40" value="текст отказа" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HJOpEBRodyzElY_gxKN2-32">
+          <mxGeometry x="0.7704" y="-5" relative="1" as="geometry">
+            <mxPoint x="1" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-5" value="Юрист" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="650" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HJOpEBRodyzElY_gxKN2-7" target="HJOpEBRodyzElY_gxKN2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-29" value="файл акта /&amp;nbsp;&lt;div&gt;текст заключения&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HJOpEBRodyzElY_gxKN2-28">
+          <mxGeometry x="0.2863" y="-1" relative="1" as="geometry">
+            <mxPoint x="15" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-7" value="Эксперт" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="650" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HJOpEBRodyzElY_gxKN2-8" target="HJOpEBRodyzElY_gxKN2-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-44" value="платёжное&amp;nbsp;&lt;div&gt;поручение&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HJOpEBRodyzElY_gxKN2-43">
+          <mxGeometry x="0.6912" y="-2" relative="1" as="geometry">
+            <mxPoint x="23" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-8" value="Кассир" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HJOpEBRodyzElY_gxKN2-9" target="HJOpEBRodyzElY_gxKN2-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-46" value="накладная,&amp;nbsp;&lt;div&gt;номер претензии&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HJOpEBRodyzElY_gxKN2-45">
+          <mxGeometry x="0.2582" y="1" relative="1" as="geometry">
+            <mxPoint y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-9" value="Кладовщик" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="770" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HJOpEBRodyzElY_gxKN2-10" target="HJOpEBRodyzElY_gxKN2-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-47" value="данные решения,&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;шаблон текста&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HJOpEBRodyzElY_gxKN2-39">
+          <mxGeometry x="0.5452" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-10" value="Сотрудник&amp;nbsp;&lt;div&gt;клиентского&amp;nbsp;&lt;div&gt;сервиса&lt;/div&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="HJOpEBRodyzElY_gxKN2-11" target="HJOpEBRodyzElY_gxKN2-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-35" value="Использование" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HJOpEBRodyzElY_gxKN2-34">
+          <mxGeometry x="0.1468" y="3" relative="1" as="geometry">
+            <mxPoint x="-7" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-11" value="Зарегистрировать претензию" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-12" value="Назначить экспертизу" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-13" value="Загрузить заключение экспертизы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-14" value="Принять решение по претензии" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-15" value="Уведомить клиента" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-16" value="Выполнить возврат средств" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="325" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-17" value="Оформить обмен товара" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-18" value="Сформировать письмо-отказ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-19" value="Просмотреть историю покупателя" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="HJOpEBRodyzElY_gxKN2-21" target="HJOpEBRodyzElY_gxKN2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-37" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HJOpEBRodyzElY_gxKN2-36">
+          <mxGeometry x="0.0761" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-21" value="Проверка правомерности" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="325" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HJOpEBRodyzElY_gxKN2-2" target="HJOpEBRodyzElY_gxKN2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-24" value="данные клиента,&amp;nbsp;&lt;div&gt;товар,&amp;nbsp;&lt;/div&gt;&lt;div&gt;претензия&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HJOpEBRodyzElY_gxKN2-23">
+          <mxGeometry x="0.6156" y="-3" relative="1" as="geometry">
+            <mxPoint x="11" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJOpEBRodyzElY_gxKN2-33" value="Регистрация претензии в системе" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
